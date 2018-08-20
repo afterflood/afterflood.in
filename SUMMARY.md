@@ -10,4 +10,5 @@
 * [Cleaning your house](cleaning-your-house.md)
 * [Prevent Illness from Sewage](prevent-illness-from-sewage.md)
 * [Food and Paper waste management](food-and-paper-waste-management.md)
+* [Sterilised water](sterilised-water.md)
 
