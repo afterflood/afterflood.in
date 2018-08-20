@@ -9,4 +9,5 @@
 * [How to fix your fridge](how-to-fix-your-fridge.md)
 * [Cleaning your house](cleaning-your-house.md)
 * [Prevent Illness from Sewage](prevent-illness-from-sewage.md)
+* [Food and Paper waste management](food-and-paper-waste-management.md)
 
