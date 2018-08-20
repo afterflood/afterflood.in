@@ -2,5 +2,4 @@
 
 * [afterflood.in](README.md)
 * [How to clean well](how-to-clean-well.md)
-* [Clean Well](clean-well.md)
 
