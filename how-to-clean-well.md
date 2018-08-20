@@ -20,3 +20,6 @@ description: കിണറിലെ വെള്ളം ശുദ്ധീകര�
 
 https://www.youtube.com/embed/B2ZpO1czR-g
 
+https://www.youtube.com/watch?v=B2ZpO1czR-g
+
+
