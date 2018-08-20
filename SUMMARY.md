@@ -6,4 +6,5 @@
 * [Carpets and furniture](carpets-and-furniture.md)
 * [Back to Home Kit](back-to-home-kit.md)
 * [Let us Go Back Home Safely!](let-us-go-back-home-safely.md)
+* [How to fix your fridge](how-to-fix-your-fridge.md)
 
