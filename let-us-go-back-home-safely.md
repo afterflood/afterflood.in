@@ -11,6 +11,6 @@
 * Ensure that the **Main Switch** of your home is **turned off.** Those who have solar and inverter installed, take precaution ⚡
 * Wear gloves and footwear \(Preferably Boots\) at all times while cleaning  🧤
 * Go back to your home only after the flood water recedes completely 🚶‍
-* There are chances of finding snakes and other creatures inside or outside your home.  Take caution 🐍 
+* There are chances of finding snakes and other creatures inside or outside your home. Take caution 🐍 
 * Clean every nook and corner of your home, furniture and other equipment using disinfectant ✨ 
 
