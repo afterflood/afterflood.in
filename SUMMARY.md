@@ -21,4 +21,8 @@
 * [A 10 Point Guide On What To Do If Your Car Is Submerged In Water](a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md)
 * [How to respond to snakes after floods?](how-to-respond-to-snakes-after-floods.md)
 * [Waste Management after Natural Calamities](waste-management-after-natural-calamities.md)
+* [How to prevent yourself from diseases after a flood?](how-to-prevent-yourself-from-diseases-after-a-flood.md)
+* [Remember these, if you have to step into a water-body](remember-these-if-you-have-to-step-into-a-water-body.md)
+* [Remember these when you head back home after the flood.](remember-these-when-you-head-back-home-after-the-flood..md)
+* [How to clean your home after a flood?](how-to-clean-your-home-after-a-flood.md)
 
