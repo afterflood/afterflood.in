@@ -13,7 +13,7 @@
 * [Water Sterilization](sterilised-water.md)
 * [Discarding Food and Medicines](foods-and-medicines-to-be-discarded.md)
 * [What should be Discarded/Recovered?](what-should-be-discarded-recovered.md)
-* [Before moving back in](before-moving-back-in.md)
+* [Ensure before moving back in](before-moving-back-in.md)
 * [Contribute](contribute.md)
 * [Easy Hack for Cleaning](easy-hack-for-cleaning.md)
 * [Ensure Building Safety](ensure-building-safety.md)
@@ -28,7 +28,7 @@
 * [Ensuring the safety of your home \(Video\)](how-to-ensure-the-safety-your-home-after-a-flood.md)
 * [Sterilizing your well water \(Video\)](how-to-cleanse-your-well-water-after-a-flood-spell.md)
 * [Sterilizing drinking water \(Video\)](how-to-disinfect-your-drinking-water-after-a-flood.md)
-* [Remember these five points while circulating messages in social media](remember-these-five-points-while-circulating-messages-in-social-media.md)
+* [Five points to keep in mind when circulating messages \(Video\)](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Building non-destructive testing](building-strength-testing.md)
 * [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
 

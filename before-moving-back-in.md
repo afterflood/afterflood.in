@@ -2,7 +2,7 @@
 description: What to do before moving back in to stay at your home.
 ---
 
-# Before moving back in
+# Ensure before moving back in
 
 വെള്ളം തിരിച്ചു ഇറങ്ങിയതിന് ശേഷം താഴെ പറയുന്ന കാര്യങ്ങൾ ശ്രദ്ധിച്ചു കഴിഞ്ഞു മാത്രം വീട്ടിൽ പ്രവേശിക്കാവു
 
