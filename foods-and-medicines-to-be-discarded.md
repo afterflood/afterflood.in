@@ -2,7 +2,7 @@
 description: Types of food and medicines to be discarded after returning home
 ---
 
-# Foods and medicines to be DISCARDED
+# Discarding Food and Medicines
 
 *  ഉപയോഗശൂന്യമാകാത്ത ടിന്നിലടച്ച എല്ലാ സാധനങ്ങളും നന്നായി കഴുകുകയും അണുവിമുക്തമാക്കപ്പെടുകയും വേണം.
 * വെള്ളം കേറിയ എല്ലാ മരുന്നുകളും സൗന്ദര്യവർദ്ധക വസ്തുക്കളും മറ്റ് ടോയ്ലറ്റ്റികളും ഉപേക്ഷിക്കുക .

@@ -7,7 +7,7 @@
 
 * Gloves
 * Masks and other protective gear
-* mops, broom, squeegees, etc.
+* mops, brooms etc.
 * Garbage bags
 * Unscented detergent
 {% endhint %}
