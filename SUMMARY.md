@@ -15,4 +15,5 @@
 * [What should be Discarded/Recovered?](what-should-be-discarded-recovered.md)
 * [Before moving back in](before-moving-back-in.md)
 * [Contribute](contribute.md)
+* [Easy Hack for Cleaning](easy-hack-for-cleaning.md)
 
