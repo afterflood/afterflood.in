@@ -8,7 +8,7 @@
 * Vertigo medicine
 * ORS Packets
 * Pain Killers
-* Anti diarhea medication
+* Anti diarrhea medication
 * antacids
 * laxatives
 * Masks
