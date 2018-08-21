@@ -30,4 +30,5 @@
 * [How to disinfect your drinking water after a flood?](how-to-disinfect-your-drinking-water-after-a-flood.md)
 * [Remember these five points while circulating messages in social media](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Building non-destructive testing](building-strength-testing.md)
+* [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
 

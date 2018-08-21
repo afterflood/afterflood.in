@@ -16,6 +16,8 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="personal-hygiene.md" %}
 
+{% page-ref page="essential-medicines-to-be-kept-after-a-flood.md" %}
+
 ## Waste Management 
 
 {% page-ref page="food-and-paper-waste-management.md" %}
