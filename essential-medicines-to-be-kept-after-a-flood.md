@@ -1,20 +1,20 @@
 # Essential medicines to be kept after a flood
 
-* Disinfectant solution
-* Fever medication
-* Antibiotics
-* anti bacterial cream
-* anti fungal cream
-* Vertigo medicine
-* ORS Packets
-* Pain Killers
-* Anti diarrhea medication
-* antacids
-* laxatives
-* Masks
-* Cotton Rolls
-* Bleaching powder
-* Chlorine tablets
+* **Disinfectant solution-അണുനാശിനി**
+* **Fever medication-പനി മരുന്നുകൾ**
+* **Antibiotics-ആൻറിബയോട്ടിക്**
+* **anti bacterial cream-ആന്റി ബാക്ടീരിയ ക്റീം**
+* **anti fungal cream-ആന്റി-ഫംഗൽ ക്റീം**
+* **Vertigo medicine-വെർറ്റിഗോ മരുന്നുകൾ**
+* **ORS Packets-ഒആർഎസ്സ് പാക്കറ്റുകൾ**
+* **Pain Killers-പെയ്ൻ കില്ലറുകൾ**
+* **Anti diarrhea medication-ഡയറിയയ്ക്കുള്ള മരുന്നുകൾ**
+* **antacids-ഗാസ്സിനുളള മരുന്നുകൾ**
+* **laxatives-വയറിളക്ക മരുന്നുകൾ**
+* **Masks-മുഖംമൂടി**
+* **Cotton Rolls-പഞ്ഞി കെട്ടുകൾ**
+* **Bleaching powder-ബ്ളീച്ചിങ് പൊടി**
+* **Chlorine tablets-ക്ലോറിൻ പൊടി**
 
 
 
