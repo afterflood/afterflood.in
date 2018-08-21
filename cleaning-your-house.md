@@ -46,11 +46,7 @@
 
 വീടിനകവും പുറവും വൃത്തിയാക്കുക എന്നതാണ് അടുത്ത കാര്യം. പക്ഷെ അക്കാര്യം ചെയ്യുന്നതിന് മുൻപ് മണ്ണ് കയറി നാശമാക്കിയ വസ്തുക്കൾ എല്ലാം എവിടെ കൊണ്ടുപോയി കളയാം എന്നതിൽ കുറച്ച് അറിവ് വേണം. ഇക്കാര്യത്തെപ്പറ്റി പുതിയ ലഘുലേഖ തയ്യാറാകുന്നുണ്ട്.
 
-കടപ്പാട്; വെള്ളപ്പൊക്കം കഴിഞ്ഞ വീട്ടിലേക്ക് തിരിച്ചെത്തുന്നതിന് ലോകത്ത് അനവധി നല്ല മാർഗ്ഗ നിർദേശങ്ങളും വീഡിയോയും ഉണ്ട്. ഞാനും അബുദാബിയിലെ സുഹൃത്തുക്കളും കൂടി സംഭരിച്ച വസ്തുതകളാണ് ഇവിടെ കൊടുത്തിരിക്കുന്നത്.
 
-ഷെയർ ചെയ്യണം. വെള്ളമിറങ്ങിക്കഴിഞ്ഞതിന് ശേഷം ഉണ്ടാകാവുന്ന ഓരോ മരണങ്ങളും ഒഴിവാക്കേണ്ടതാണ്.
-
-\(വീട് വൃത്തിയാക്കുമ്പോൾ ശ്രദ്ധിക്കേണ്ട മുൻകരുതലുകൾ കൂടാതെ, ദുരന്തം കുട്ടികളുടെയും മറ്റുള്ളവരുടെയും മാനസിക ആരോഗ്യത്തെ എങ്ങനെ ബാധിക്കുന്നു, അവരെ എങ്ങനെ സഹായിക്കാം എന്നുൾപ്പെടെ പല കുറിപ്പുകൾ തയ്യാറാക്കുകയാണ്. വരും ദിവസങ്ങളിൽ പോസ്റ്റ് ചെയ്യാം. അബുദാബിയിലെ സുഹൃത്തുക്കൾക്ക് നന്ദി !
 
 {% embed data="{\"url\":\"https://www.youtube.com/watch?v=aGoevb5-Mfk\",\"type\":\"video\",\"title\":\"Clean Up Your Home After Flooding: Entering Flooded Home\",\"description\":\"After a home or building has been flooded it is time to begin the clean up process. Learn how to enter a home safely, check the carpet and curtains, understand what makes the water and food safe.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/aGoevb5-Mfk/hqdefault.jpg\",\"width\":480,\"height\":360,\"aspectRatio\":0.75},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/aGoevb5-Mfk?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75.0019%;\\\"><iframe src=\\\"https://www.youtube.com/embed/aGoevb5-Mfk?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.3333}}" %}
 
