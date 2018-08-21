@@ -1,6 +1,6 @@
 ---
 description: >-
-  During the floods, snakes float into houses and take shelter in roofs, nooks,
+  During the floods, snakes float into houses and take shelter in roofs, nooks
   and crannies, under debris or other belongings where hiding is possible. Thus
   caution is advised to people going back home
 ---
