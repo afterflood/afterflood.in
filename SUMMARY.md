@@ -11,4 +11,6 @@
 * [Prevent Illness from Sewage](prevent-illness-from-sewage.md)
 * [Food and Paper waste management](food-and-paper-waste-management.md)
 * [Sterilised water](sterilised-water.md)
+* [Foods and medicines to be DISCARDED](foods-and-medicines-to-be-discarded.md)
+* [What should be Discarded/Recovered?](what-should-be-discarded-recovered.md)
 
