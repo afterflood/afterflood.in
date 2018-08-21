@@ -20,4 +20,5 @@
 * [Personal Hygiene](personal-hygiene.md)
 * [A 10 Point Guide On What To Do If Your Car Is Submerged In Water](a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md)
 * [How to respond to snakes after floods?](how-to-respond-to-snakes-after-floods.md)
+* [Waste Management after Natural Calamities](waste-management-after-natural-calamities.md)
 
