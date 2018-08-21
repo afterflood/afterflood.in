@@ -12,11 +12,19 @@ description: The one place for all after flood info.
 
 {% page-ref page="sterilised-water.md" %}
 
+{% page-ref page="foods-and-medicines-to-be-discarded.md" %}
+
 ## Waste Management 
 
 {% page-ref page="food-and-paper-waste-management.md" %}
 
+{% page-ref page="what-should-be-discarded-recovered.md" %}
+
 ## Safety  Management
+
+{% page-ref page="before-moving-back-in.md" %}
+
+{% page-ref page="what-should-be-discarded-recovered.md" %}
 
 {% page-ref page="let-us-go-back-home-safely.md" %}
 
@@ -58,7 +66,10 @@ description: The one place for all after flood info.
 2. Add a new page and update `Readme.md & Summary.md`
 3. Send a PR with your Update
 
+Or email us at `afterflood.in@gmail.com`   
 
+
+{% page-ref page="contribute.md" %}
 
 
 
