@@ -1,7 +1,7 @@
 # Carpets and furniture
 
 {% hint style="danger" %}
-**Be careful when you handle furnitures**
+**Be careful when handling furniture**
 {% endhint %}
 
 * കാർപ്പെറ്റുകൾ ആദ്യ രണ്ട് ദിവസങ്ങൾക്കുള്ളിൽ തന്നെ ഉണക്കണം. 
@@ -11,7 +11,7 @@
 
 
 
-* Carpets must be dried within the first two days. Carpets soaked with sewage must be discarded immediately.
+* Carpets must be dried within the first two days. soaked carpets must be discarded immediately.
 * Remove residual mud and soil from furniture, appliances, etc.
 * If items are just damp, let the mud dry and then brush it off.
 * To test if material is dry, tape clear food wrap to the surface of the item. If the covered section turns darker than the surrounding material, it is still damp. Dry until this no longer occurs.

@@ -1,12 +1,22 @@
 ---
-description: 'The one place to get to know more on Health, Waste and safety management.'
+description: The crowd sourced data hub for all after flood precautions
 ---
 
 # \#AfterFlood
 
+
+
 ![](.gitbook/assets/afterflood-logo-01.png)
 
-## Health Management
+{% hint style="danger" %}
+**Please do not use Sodium PolyAcrelate for cleaning flood water**  
+[**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
+{% endhint %}
+
+  
+****
+
+## Health Management 
 
 {% page-ref page="prevent-illness-from-sewage.md" %}
 

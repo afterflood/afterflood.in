@@ -1,4 +1,4 @@
-# Let us Get Back Home Safely!
+# Let us Return Home Safely!
 
 {% hint style="danger" %}
 **Go Back During Daytime Only**
