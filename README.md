@@ -9,14 +9,14 @@ description: The crowd sourced data hub for all after flood precautions
 ![](.gitbook/assets/afterflood-logo-01.png)
 
 {% hint style="danger" %}
-**Please do not use Sodium PolyAcrelate for cleaning flood water**  
+**Please do not use Sodium polyacrylate for cleaning flood water**  
 [**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
 {% endhint %}
 
-  
+
 ****
 
-## Health Management 
+## Health Management
 
 {% page-ref page="prevent-illness-from-sewage.md" %}
 
@@ -28,7 +28,7 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="essential-medicines-to-be-kept-after-a-flood.md" %}
 
-## Waste Management 
+## Waste Management
 
 {% page-ref page="food-and-paper-waste-management.md" %}
 
@@ -80,7 +80,7 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="remember-these-five-points-while-circulating-messages-in-social-media.md" %}
 
-## General Note 
+## General Note
 
 {% hint style="warning" %}
 ## Ensure building safety
@@ -102,7 +102,7 @@ description: The crowd sourced data hub for all after flood precautions
 ## Contribute to www.afterflood.in
 {% endhint %}
 
-1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in) 
+1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in)
 2. Add a new page and update `Readme.md & Summary.md`
 3. Send a PR with your Update
 
@@ -110,6 +110,3 @@ Or email us at `afterflood.in@gmail.com`
 
 
 {% page-ref page="contribute.md" %}
-
-
-

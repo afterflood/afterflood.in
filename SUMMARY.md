@@ -15,7 +15,7 @@
 * [What should be Discarded/Recovered?](what-should-be-discarded-recovered.md)
 * [Ensure before moving back in](before-moving-back-in.md)
 * [Contribute](contribute.md)
-* [Please don't use Sodium PolyAcrelate](easy-hack-for-cleaning.md)
+* [Please don't use Sodium polyacrylate](easy-hack-for-cleaning.md)
 * [Ensure Building Safety](ensure-building-safety.md)
 * [Personal Hygiene](personal-hygiene.md)
 * [10 Tips for when Your Car Is Submerged In Water](a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md)
@@ -31,4 +31,3 @@
 * [Five points to keep in mind when circulating messages \(Video\)](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Building non-destructive testing](building-strength-testing.md)
 * [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
-
