@@ -1,5 +1,5 @@
 ---
-description: "You can only contribute with verified contents \U0001F604"
+description: "You can only contribute with contents \U0001F604"
 ---
 
 # Contribute
