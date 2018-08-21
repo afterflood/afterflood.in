@@ -26,6 +26,8 @@
 
 {% page-ref page="how-to-fix-your-fridge.md" %}
 
+## General Note 
+
 {% hint style="warning" %}
 ## Ensure building safety
 {% endhint %}
@@ -41,4 +43,16 @@
 * Follow recommended routes. DO NOT sightsee.
 * Watch for washed out roads, earth slides, and downed trees or power lines.
 * Stay away from downed power lines.
+
+{% hint style="success" %}
+## Contribute to www.afterflood.in
+{% endhint %}
+
+1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in) 
+2. Add a new page and update `Readme.md & Summary.md`
+3. Send a PR with your Update
+
+
+
+
 
