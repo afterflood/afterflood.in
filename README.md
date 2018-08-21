@@ -9,14 +9,14 @@ description: The crowd sourced data hub for all after flood precautions
 ![](.gitbook/assets/afterflood-logo-01.png)
 
 {% hint style="danger" %}
-**Please do not use Sodium PolyAcrelate for cleaning flood water**  
+**Please do not use Sodium polyacrylate for cleaning flood water**  
 [**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
 {% endhint %}
 
-  
+
 ****
 
-## Health Management 
+## Health Management
 
 {% page-ref page="prevent-illness-from-sewage.md" %}
 

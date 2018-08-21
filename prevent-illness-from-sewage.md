@@ -1,6 +1,6 @@
 # Illness Prevention
 
-*  വെള്ളപ്പൊക്കം മുഖേന, ജലത്തിൽ കാർഷിക വ്യാവസായിക മാലിന്യങ്ങൾ ഉൾപെടാൻ സാധ്യത ഉണ്ട്. ഈ ജലം ശരീരത്തിൽ സ്പർശിച്ചത് കൊണ്ട് ഗുരുതരമായ ആരോഗ്യപ്രശ്നമുണ്ടാകുന്നില്ല എങ്കിലും, വെള്ളപ്പൊക്കത്താൽ മലിനമായ ഭക്ഷണ പാനീയങ്ങൾ ആരോഗ്യ പ്രശ്നങ്ങൾ ഉണ്ടാക്കാം
+* വെള്ളപ്പൊക്കം മുഖേന, ജലത്തിൽ കാർഷിക വ്യാവസായിക മാലിന്യങ്ങൾ ഉൾപെടാൻ സാധ്യത ഉണ്ട്. ഈ ജലം ശരീരത്തിൽ സ്പർശിച്ചത് കൊണ്ട് ഗുരുതരമായ ആരോഗ്യപ്രശ്നമുണ്ടാകുന്നില്ല എങ്കിലും, വെള്ളപ്പൊക്കത്താൽ മലിനമായ ഭക്ഷണ പാനീയങ്ങൾ ആരോഗ്യ പ്രശ്നങ്ങൾ ഉണ്ടാക്കാം
 * നിങ്ങളുടെ വീട്ടിൽ മാലിന്യം പ്രവഹിച്ചിട്ടുണ്ടെങ്കിൽ, റബ്ബർ ബൂട്ട്സ്, കയ്യുറകൾ ഇവ വൃത്തിയാക്കലിനുവേണ്ടി ഉപയോഗിക്കുക. അണുവിമുക്തമാക്കുവാൻ കഴിയാത്ത മാലിന്യവൽക്കരിച്ച ഗാർഹിക സാമഗ്രികൾ നീക്കം ചെയ്യുക
 * ഏന്തെങ്കിലും മുറിവുകൾ നിങ്ങൾക്ക് ഉണ്ടെങ്കിൽ, അവയെ സോപ്പ് ഉപയോഗിച്ച് കഴുകുകയും രോഗം വരാതിരിക്കാൻ ഒരു ആന്റിബയോട്ടിക് തൈലം ഉപയോഗിക്കുകയും ചെയ്യുക.
 * വെള്ളപ്പൊക്കം മുഖേന മലിനമാക്കപ്പെട്ട വസ്ത്രങ്ങൾ ചൂടുവെള്ളം, സോപ്പ് എന്നിവ ഉപയോഗിച്ച് പ്രത്യേകം കഴുകുക
@@ -10,4 +10,3 @@
 * If you have any open cuts or sores that will be exposed to floodwater, keep them as clean as possible by washing them with soap and applying an antibiotic ointment to discourage infection.
 * Wash clothes contaminated with flood or sewage water in hot water and detergent and separately from uncontaminated clothes and linens.
 * Do not allow children to play in floodwater areas and do not allow children to play with floodwater-contaminated toys that have not been disinfected. Disinfect toys by using a solution of bleach and water. Some toys, such as stuffed animals and baby toys, cannot be disinfected; they should be discarded.
-
