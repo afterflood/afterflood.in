@@ -6,6 +6,7 @@
 * [Carpets and furniture](carpets-and-furniture.md)
 * [Back to Home Kit](back-to-home-kit.md)
 * [Let us Get Back Home Safely!](let-us-go-back-home-safely.md)
+* [Detailed Explanation on Dealing with Snakes](detailed-explanation-on-dealing-with-snakes-in-the-house.md)
 * [How to fix your fridge](how-to-fix-your-fridge.md)
 * [Cleaning your house](cleaning-your-house.md)
 * [Prevent Illness from Sewage](prevent-illness-from-sewage.md)
@@ -31,4 +32,3 @@
 * [Remember these five points while circulating messages in social media](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Building non-destructive testing](building-strength-testing.md)
 * [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
-

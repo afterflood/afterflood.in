@@ -6,7 +6,7 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 ![](.gitbook/assets/afterflood-logo-01.png)
 
-## Health Management 
+## Health Management
 
 {% page-ref page="prevent-illness-from-sewage.md" %}
 
@@ -18,7 +18,7 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="essential-medicines-to-be-kept-after-a-flood.md" %}
 
-## Waste Management 
+## Waste Management
 
 {% page-ref page="food-and-paper-waste-management.md" %}
 
@@ -50,6 +50,8 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="how-to-respond-to-snakes-after-floods.md" %}
 
+{% page-ref page="detailed-explanation-on-dealing-with-snakes-in-the-house.md" %}
+
 {% page-ref page="building-strength-testing.md" %}
 
 ## Videos
@@ -70,7 +72,7 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="remember-these-five-points-while-circulating-messages-in-social-media.md" %}
 
-## General Note 
+## General Note
 
 {% hint style="warning" %}
 ## Ensure building safety
@@ -92,7 +94,7 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 ## Contribute to www.afterflood.in
 {% endhint %}
 
-1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in) 
+1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in)
 2. Add a new page and update `Readme.md & Summary.md`
 3. Send a PR with your Update
 
@@ -100,6 +102,3 @@ Or email us at `afterflood.in@gmail.com`
 
 
 {% page-ref page="contribute.md" %}
-
-
-
