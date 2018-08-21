@@ -25,4 +25,8 @@
 * [Remember these, if you have to step into a water-body](remember-these-if-you-have-to-step-into-a-water-body.md)
 * [Remember these when you head back home after the flood.](remember-these-when-you-head-back-home-after-the-flood..md)
 * [How to clean your home after a flood?](how-to-clean-your-home-after-a-flood.md)
+* [How to ensure the safety your home after a flood?](how-to-ensure-the-safety-your-home-after-a-flood.md)
+* [How to cleanse your well water after a flood spell?](how-to-cleanse-your-well-water-after-a-flood-spell.md)
+* [How to disinfect your drinking water after a flood?](how-to-disinfect-your-drinking-water-after-a-flood.md)
+* [Remember these five points while circulating messages in social media](remember-these-five-points-while-circulating-messages-in-social-media.md)
 
