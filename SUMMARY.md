@@ -15,7 +15,7 @@
 * [What should be Discarded/Recovered?](what-should-be-discarded-recovered.md)
 * [Ensure before moving back in](before-moving-back-in.md)
 * [Contribute](contribute.md)
-* [Easy Hack for Cleaning](easy-hack-for-cleaning.md)
+* [Please don't use Sodium PolyAcrelate](easy-hack-for-cleaning.md)
 * [Ensure Building Safety](ensure-building-safety.md)
 * [Personal Hygiene](personal-hygiene.md)
 * [10 Tips for when Your Car Is Submerged In Water](a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md)
