@@ -48,6 +48,24 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="how-to-respond-to-snakes-after-floods.md" %}
 
+## Videos
+
+{% page-ref page="how-to-prevent-yourself-from-diseases-after-a-flood.md" %}
+
+{% page-ref page="remember-these-if-you-have-to-step-into-a-water-body.md" %}
+
+{% page-ref page="remember-these-when-you-head-back-home-after-the-flood..md" %}
+
+{% page-ref page="how-to-clean-your-home-after-a-flood.md" %}
+
+{% page-ref page="how-to-ensure-the-safety-your-home-after-a-flood.md" %}
+
+{% page-ref page="how-to-cleanse-your-well-water-after-a-flood-spell.md" %}
+
+{% page-ref page="how-to-disinfect-your-drinking-water-after-a-flood.md" %}
+
+{% page-ref page="remember-these-five-points-while-circulating-messages-in-social-media.md" %}
+
 ## General Note 
 
 {% hint style="warning" %}
