@@ -14,4 +14,5 @@
 * [Foods and medicines to be DISCARDED](foods-and-medicines-to-be-discarded.md)
 * [What should be Discarded/Recovered?](what-should-be-discarded-recovered.md)
 * [Before moving back in](before-moving-back-in.md)
+* [Contribute](contribute.md)
 
