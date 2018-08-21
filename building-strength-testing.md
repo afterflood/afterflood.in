@@ -1,4 +1,4 @@
-# Building strength testing
+# Building non-destructive testing
 
 The most common and easiest method of NDT is visual inspection. A trained eye can easily find out any apparent visual aberrations in a structure. 
 
