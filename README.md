@@ -48,6 +48,8 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="how-to-respond-to-snakes-after-floods.md" %}
 
+{% page-ref page="building-strength-testing.md" %}
+
 ## Videos
 
 {% page-ref page="how-to-prevent-yourself-from-diseases-after-a-flood.md" %}

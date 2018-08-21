@@ -29,4 +29,5 @@
 * [How to cleanse your well water after a flood spell?](how-to-cleanse-your-well-water-after-a-flood-spell.md)
 * [How to disinfect your drinking water after a flood?](how-to-disinfect-your-drinking-water-after-a-flood.md)
 * [Remember these five points while circulating messages in social media](remember-these-five-points-while-circulating-messages-in-social-media.md)
+* [Building strength testing](building-strength-testing.md)
 
