@@ -1,5 +1,5 @@
 ---
-description: The one place for all after flood info.
+description: 'The one place to get to know more on Health, Waste and safety management.'
 ---
 
 # \#AfterFlood
