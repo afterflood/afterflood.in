@@ -10,10 +10,9 @@ description: What to do before moving back in to stay at your home.
 * മലിനീകരിക്കപ്പെട്ട എല്ലാ വീട്ടുപകരണങ്ങളും പാത്രങ്ങളും നന്നായി കഴുകുകയും അണുവിമുക്തമാവുകയും ചെയ്യുക - തിളച്ച വെള്ളം അല്ലെങ്കിൽ ക്ലോറിൻ വെള്ളം ഉപയോഗിച്ച് നന്നായി കഴുകുക.
 * ആവശ്യത്തിന് ടോയ്ലെറ്റ് സൌകര്യങ്ങൾ ലഭ്യമാക്കുക
 
-
-
- Once the flood waters have receded, you must not live in your house until:
+Once the flood waters have receded, you must not live in your house until:
 
 * Every flood-contaminated room has been thoroughly cleaned, disinfected and surface-dried.
 * All contaminated dishes and utensils have been thoroughly washed and disinfected - either by using boiling water or by using a sterilizing solution of one part chlorine bleach to four parts water. Rinse dishes and utensils thoroughly.
 * Adequate toilet facilities are available.
+

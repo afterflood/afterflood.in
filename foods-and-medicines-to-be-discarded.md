@@ -1,7 +1,3 @@
----
-description: Types of food and medicines to be discarded after returning home
----
-
 # Discarding Food and Medicines
 
 * കേടുകൂടാത്ത എല്ലാ ടിന്നിൽ അടച്ച വസ്തുക്കളും നന്നായി കഴുകിയ ശേഷം മാത്രം ഉപയോഗിക്കുക.

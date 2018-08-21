@@ -5,7 +5,6 @@
 * [How to clean wells](how-to-clean-well.md)
 * [Carpets and furniture](carpets-and-furniture.md)
 * [Back to Home Kit](back-to-home-kit.md)
-* [Detailed Explanation on Dealing with Snakes](detailed-explanation-on-dealing-with-snakes-in-the-house.md)
 * [Let us Return Home Safely!](let-us-go-back-home-safely.md)
 * [How to fix your fridge](how-to-fix-your-fridge.md)
 * [Preparation for cleaning your house](cleaning-your-house.md)
@@ -20,7 +19,7 @@
 * [Ensure Building Safety](ensure-building-safety.md)
 * [Personal Hygiene](personal-hygiene.md)
 * [10 Tips for when Your Car Is Submerged In Water](a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md)
-* [How to respond to snakes after floods?](how-to-respond-to-snakes-after-floods.md)
+* [Detailed Explanation on Dealing with Snakes](how-to-respond-to-snakes-after-floods.md)
 * [Waste Management after Natural Calamities](waste-management-after-natural-calamities.md)
 * [How to prevent diseases after a flood?](how-to-prevent-yourself-from-diseases-after-a-flood.md)
 * [Remember these, if you have to step into a water-body](remember-these-if-you-have-to-step-into-a-water-body.md)
@@ -32,3 +31,4 @@
 * [Five points to keep in mind when circulating messages \(Video\)](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Building non-destructive testing](building-strength-testing.md)
 * [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
+

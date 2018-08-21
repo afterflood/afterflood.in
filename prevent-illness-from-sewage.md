@@ -10,3 +10,4 @@
 * If you have any open cuts or sores that will be exposed to floodwater, keep them as clean as possible by washing them with soap and applying an antibiotic ointment to discourage infection.
 * Wash clothes contaminated with flood or sewage water in hot water and detergent and separately from uncontaminated clothes and linens.
 * Do not allow children to play in floodwater areas and do not allow children to play with floodwater-contaminated toys that have not been disinfected. Disinfect toys by using a solution of bleach and water. Some toys, such as stuffed animals and baby toys, cannot be disinfected; they should be discarded.
+

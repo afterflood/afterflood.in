@@ -1,9 +1,3 @@
----
-description: >-
-  An article by Muralee Thummarukudy - Chief of Disaster Risk Reduction in the
-  UN Environment Programme.
----
-
 # Waste Management after Natural Calamities
 
 അതിൽ ഉൾപ്പെട്ട സുരക്ഷാ പ്രശ്നങ്ങളും പറഞ്ഞിരുന്നു. ഇനി രണ്ടാമത്തെ പ്രധാനപ്പെട്ട കാര്യം. ദുരന്തകാലത്തെ മാലിന്യ നിർമ്മാർജ്ജനം.

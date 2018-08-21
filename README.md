@@ -4,17 +4,12 @@ description: The crowd sourced data hub for all after flood precautions
 
 # \#AfterFlood
 
-
-
 ![](.gitbook/assets/afterflood-logo-01.png)
 
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
 [**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
 {% endhint %}
-
-
-****
 
 ## Health Management
 
@@ -59,8 +54,6 @@ description: The crowd sourced data hub for all after flood precautions
 {% page-ref page="a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md" %}
 
 {% page-ref page="how-to-respond-to-snakes-after-floods.md" %}
-
-{% page-ref page="detailed-explanation-on-dealing-with-snakes-in-the-house.md" %}
 
 {% page-ref page="building-strength-testing.md" %}
 
@@ -108,7 +101,7 @@ description: The crowd sourced data hub for all after flood precautions
 2. Add a new page and update `Readme.md & Summary.md`
 3. Send a PR with your Update
 
-Or email us at `afterflood.in@gmail.com`   
-
+Or email us at `afterflood.in@gmail.com`
 
 {% page-ref page="contribute.md" %}
+
