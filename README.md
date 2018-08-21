@@ -10,11 +10,9 @@ description: The crowd sourced data hub for all after flood precautions
 
 ## 
 
-{% hint style="danger" %}
 **Please do not use Sodium PolyAcrelate for cleaning flood water**  
-[**Read More: https://www.afterflood.in/easy-hack-for-cleaning**](https://www.afterflood.in/easy-hack-for-cleaning)  
+[**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)  
 ****
-{% endhint %}
 
 ## Health Management 
 
