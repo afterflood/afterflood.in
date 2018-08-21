@@ -14,6 +14,8 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="foods-and-medicines-to-be-discarded.md" %}
 
+{% page-ref page="personal-hygiene.md" %}
+
 ## Waste Management 
 
 {% page-ref page="food-and-paper-waste-management.md" %}
