@@ -16,4 +16,6 @@
 * [Before moving back in](before-moving-back-in.md)
 * [Contribute](contribute.md)
 * [Easy Hack for Cleaning](easy-hack-for-cleaning.md)
+* [Ensure Building Safety](ensure-building-safety.md)
+* [Personal Hygiene](personal-hygiene.md)
 
