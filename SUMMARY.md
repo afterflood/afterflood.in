@@ -7,7 +7,7 @@
 * [Back to Home Kit](back-to-home-kit.md)
 * [Let us Return Home Safely!](let-us-go-back-home-safely.md)
 * [How to fix your fridge](how-to-fix-your-fridge.md)
-* [Cleaning your house](cleaning-your-house.md)
+* [Preparation for cleaning your house](cleaning-your-house.md)
 * [Illness Prevention](prevent-illness-from-sewage.md)
 * [Food and paper waste management](food-and-paper-waste-management.md)
 * [Water Sterilization](sterilised-water.md)
