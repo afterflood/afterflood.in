@@ -34,6 +34,8 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 {% page-ref page="how-to-clean-floors.md" %}
 
+{% page-ref page="easy-hack-for-cleaning.md" %}
+
 {% page-ref page="how-to-clean-well.md" %}
 
 {% page-ref page="carpets-and-furniture.md" %}
