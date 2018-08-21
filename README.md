@@ -8,67 +8,68 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 
 ## Health Management 
 
-{% page-ref page="prevent-illness-from-sewage.md" %}
+ [A 10 Point Guide On What To Do If Your Car Is Submerged In Water]
 
-{% page-ref page="sterilised-water.md" %}
+[Sterilised water]
 
-{% page-ref page="foods-and-medicines-to-be-discarded.md" %}
+[Foods and medicines to be DISCARDED]
 
-{% page-ref page="personal-hygiene.md" %}
+[Personal Hygiene]
 
 ## Waste Management 
 
-{% page-ref page="food-and-paper-waste-management.md" %}
+[Food and Paper waste management]
 
-{% page-ref page="what-should-be-discarded-recovered.md" %}
+   [What should be Discarded/Recovered?]
 
 ## Safety  Management
 
-{% page-ref page="before-moving-back-in.md" %}
+[Before moving back in]
 
-{% page-ref page="what-should-be-discarded-recovered.md" %}
+   [What should be Discarded/Recovered?]
 
-{% page-ref page="let-us-go-back-home-safely.md" %}
+ [Let us Get Back Home Safely!]
 
-{% page-ref page="back-to-home-kit.md" %}
+[Back to Home Kit]
 
-{% page-ref page="cleaning-your-house.md" %}
+ [Cleaning your house]
 
-{% page-ref page="how-to-clean-floors.md" %}
+[How to clean Floors]
 
-{% page-ref page="easy-hack-for-cleaning.md" %}
+[Easy Hack for Cleaning]
 
-{% page-ref page="how-to-clean-well.md" %}
+[How to clean well]
 
-{% page-ref page="carpets-and-furniture.md" %}
+[Carpets and furniture]
 
-{% page-ref page="how-to-fix-your-fridge.md" %}
+[How to fix your fridge]
 
-{% page-ref page="a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md" %}
+[A 10 Point Guide On What To Do If Your Car Is Submerged In Water]
 
-{% page-ref page="how-to-respond-to-snakes-after-floods.md" %}
+
+[How to respond to snakes after floods?]
 
 ## General Note 
 
-{% hint style="warning" %}
+
 ## Ensure building safety
-{% endhint %}
+
 
 * Make sure the building is structurally safe.
 * Look for buckled walls or floors.
 * Watch for holes in the floor, broken glass and other potentially dangerous debris.
 
-{% hint style="danger" %}
+
 ## **Travel with care.**
-{% endhint %}
+
 
 * Follow recommended routes. DO NOT sightsee.
 * Watch for washed out roads, earth slides, and downed trees or power lines.
 * Stay away from downed power lines.
 
-{% hint style="success" %}
+
 ## Contribute to www.afterflood.in
-{% endhint %}
+
 
 1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in) 
 2. Add a new page and update `Readme.md & Summary.md`
@@ -77,7 +78,47 @@ description: 'The one place to get to know more on Health, Waste and safety mana
 Or email us at `afterflood.in@gmail.com`   
 
 
-{% page-ref page="contribute.md" %}
 
 
 
+
+
+
+ [A 10 Point Guide On What To Do If Your Car Is Submerged In Water]: <https://github.com/afterflood/afterflood.in/blob/master/a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md>
+   
+   [Sterilised water]: <https://github.com/afterflood/afterflood.in/blob/master/sterilised-water.md>
+   [Foods and medicines to be DISCARDED]: <https://github.com/afterflood/afterflood.in/blob/master/foods-and-medicines-to-be-discarded.md>
+   [Personal Hygiene]: <https://github.com/afterflood/afterflood.in/blob/master/personal-hygiene.md>
+   [Food and Paper waste management]: <https://github.com/afterflood/afterflood.in/blob/master/food-and-paper-waste-management.md>
+   [What should be Discarded/Recovered?]: <https://github.com/afterflood/afterflood.in/blob/master/what-should-be-discarded-recovered.md>
+   [Before moving back in]: <https://github.com/afterflood/afterflood.in/blob/master/before-moving-back-in.md>
+   [Let us Get Back Home Safely!]:
+   <https://github.com/afterflood/afterflood.in/blob/master/let-us-go-back-home-safely.md>
+   [Back to Home Kit]:
+   <https://github.com/afterflood/afterflood.in/blob/master/back-to-home-kit.md>
+ 
+ [Cleaning your house]:
+   <https://github.com/afterflood/afterflood.in/blob/master/cleaning-your-house.md>
+   
+[How to clean Floors]:
+   <https://github.com/afterflood/afterflood.in/blob/master/how-to-clean-floors.md>
+   
+[Easy Hack for Cleaning]:
+   <https://github.com/afterflood/afterflood.in/blob/master/easy-hack-for-cleaning.m>
+   
+ [How to clean well]:
+   <https://github.com/afterflood/afterflood.in/blob/master/how-to-clean-well.md>
+   
+[Carpets and furniture]:
+   <https://github.com/afterflood/afterflood.in/blob/master/carpets-and-furniture.md>
+   
+[How to fix your fridge]:
+   <https://github.com/afterflood/afterflood.in/blob/master/how-to-fix-your-fridge.m>
+   
+   
+[How to respond to snakes after floods?]:
+   <https://github.com/afterflood/afterflood.in/blob/master/how-to-respond-to-snakes-after-floods.md>
+   
+[Carpets and furniture]:
+   <https://github.com/afterflood/afterflood.in/blob/master/carpets-and-furniture.md>
+   
