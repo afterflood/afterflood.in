@@ -4,13 +4,21 @@ description: "You can only contribute with verified contents \U0001F604"
 
 # Contribute
 
-## Can I become who I want to be?
+## Using Github 
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in)
+2. Add a new page and update `Readme.md & Summary.md`
+3. Send a PR with your Update
 
-## Have you had a chance to answer the previous question?
+## Using Email
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Drop us an email at `afterflood.in@gmail.com`
+
+
+
+{% hint style="success" %}
+The entire information in this website is crowd sourced. The copyright belongs to the original owners
+{% endhint %}
 
 
 
