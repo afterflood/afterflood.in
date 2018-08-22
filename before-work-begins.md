@@ -28,3 +28,7 @@ Turn off gas \(cylinder/pipe\) until the system is inspected.
 
 You must have a working bathroom. If the bathroom in your house cannot be used and there is no public bathroom nearby rent a portable toilet or the volunteers would arrange for one. This can be shared by several neighbors. Set up a safety and cleanup area next to the toilet.
 
+**Source:** Manoj Nair
+
+> Manoj Nair has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
+
