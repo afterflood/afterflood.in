@@ -2,7 +2,7 @@
 
 ### **Purchase and order tools and supplies** 
 
-Make a list of all supplies that are needed, including personal protective equipment and order them ahead of time. See Appendix 1 for a list of supplies and materials.
+Make a list of all supplies that are needed, including personal protective equipment and order them ahead of time. 
 
 ### Plan for trash removal
 
