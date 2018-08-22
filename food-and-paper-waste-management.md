@@ -6,6 +6,6 @@
 * ഒരിക്കൽ കുഴി നിറഞ്ഞു കഴിഞ്ഞാൽ, മണ്ണ് ഉപയോഗിച്ച് അത് അടയ്ക്കുക
 * Dig 1M deep pits to drop all food and biodegradable waste.
 * Cover these with stones or mud mounds on the side so that water doesn't enter.
-* Cover it with tarpaulin or flex sheets if it rains.
+* Cover it with tarpaulin if it rains.
 * Once its full, fill the earth back in and close it
 

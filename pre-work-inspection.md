@@ -104,7 +104,10 @@ When deciding whether to save items, remember that it will take a lot of cleanin
 * DO NOT run the central air system if you have one.
 * If power is on, put a fan in a window to blow air to the outdoors. DO NOT use fans if the house is contaminated with sewage because the air movement may spread germs into other parts of the house.
 
-  
+**Source :** Manoj Nair
+
+> **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
+
   
 
 
