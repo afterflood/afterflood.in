@@ -1,0 +1,1 @@
+Unplug everything first. Before you begin cleaning, unplug everything. It is very dangerous to enter a water damaged home if electronics are plugged in. Carefully unplug everything from the wall and turn off any appliances before you begin cleaning.
