@@ -30,3 +30,9 @@ Pots, dinnerware, buckets and other containers that are filed with flood waters 
 
 Place small items in heavy-duty trash bags to reduce the release and spread of mold spores.
 
+**Source** : Manoj Nair
+
+> **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
+
+
+
