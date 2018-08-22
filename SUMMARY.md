@@ -31,4 +31,5 @@
 * [Five points to keep in mind when circulating messages \(Video\)](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Building non-destructive testing](building-strength-testing.md)
 * [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
+* [Major Health Risks When Working on Water-Damaged Homes?](major-health-risks-when-working-on-water-damaged-homes.md)
 
