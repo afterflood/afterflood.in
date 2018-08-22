@@ -37,4 +37,5 @@
 * [BEFORE WORK BEGINS](before-work-begins.md)
 * [Restore Possessions](restore-possessions.md)
 * [SELECTIVE TEAR OUT AND PREPARATION  BEFORE RESTORATION](selective-tear-out-and-preparation-before-restoration.md)
+* [CLEAN-OUT](clean-out.md)
 
