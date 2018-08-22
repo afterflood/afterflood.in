@@ -62,3 +62,7 @@ Vacuum the surface, let it dry completely, then paint with fungicidal primer. Tr
 
   Inspect the interior and exterior of duct work. Any flexible ductwork that has mold growth should be replaced.
 
+**Source** : Manoj Nair
+
+> **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
+
