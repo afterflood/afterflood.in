@@ -4,7 +4,7 @@ description: The crowd sourced data hub for all after flood precautions
 
 # \#AfterFlood
 
-![](.gitbook/assets/afterflood-logo-01.png)
+![www.afterflood.in](.gitbook/assets/afterflood-logo-03.png)
 
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
