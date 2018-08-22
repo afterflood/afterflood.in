@@ -10,3 +10,5 @@ Unless a building sustains a serious damage due to a natural calamity or due to 
 
 A periodic visual inspection can reveal these defects and can help us in nipping these problems in the bud. But this type of inspection has its own draw backs.
 
+\*\*\*\*[**Source**](https://www.thehindu.com/todays-paper/tp-features/tp-propertyplus/use-latest-technologies-for-testing-buildings-strength/article12556936.ece) 
+
