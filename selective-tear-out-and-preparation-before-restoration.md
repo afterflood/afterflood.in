@@ -32,7 +32,11 @@ Dispose of insulation in heavy-duty trash bags.
 
 **Kitchen and bathroom Fixtures** 
 
-Use a disinfectant to kill any remaining mold and other contaminants on hard surfaces that will remain in the home. Damp wipe all
+Use a disinfectant to kill any remaining mold and other contaminants on hard surfaces that will remain in the home. Damp wipe all surfaces including tubs, bath and kitchen counter tops and vinyl/tile floors with a disinfecting solution \(see Section 6\).
+
+**Wood Flooring**
+
+ Modern Malayalees in the hill regions take pride in their wood floors and panelling. These floors can be saved if the underside has been able to dry out. Remove all overlayment material as quickly as possible to allow the top surface to dry. Scrub and vacuum floor joists. If there is severe buckling of the flooring, make a kerf cut along the length of a floorboard to create an ex- pansion space. HEPA vacuum, then scrub floors with a wet cleaning solution to prepare for fixtures and grove wood floors.
 
 **Ceramic Flooring** 
 
@@ -45,4 +49,16 @@ Wet scrape all wood to be saved or scrub it with a wet abrasive sponge to remove
 **REPAIRING BUCKLED TONGUE AND GROVE FLOOR** 
 
 For minor buckling cut a saw kerf through the center of one board. This will create an 8th inch space that will allow the board to be screwed flat. If there is major buckling remove one floor- board in the center of the warped area. Forcethe boards on both sides tight to each other. Face- screw the boards down. Scribe the board you removed and cut off the excess on the tongue side. Face screw this board down. You’ll probably need to drill pilot holes for the finish head screws or the heads will strip.
+
+Vacuum the surface, let it dry completely, then paint with fungicidal primer. Treat doors and windows in this way:
+
+  Remove doors if they are swollen and heavily damaged. Doors in older building made from old growth lumber usually can be saved and are valu- able. Have these professionally restored. 
+
+ Secure the top window sash to the window frame. Screw a metal bracket or block of wood under the top sash to hold in place. Paint the sash as part of exterior surface. Bottom sashes may need to be removed and restored before hanging against new window stop molding.
+
+**Heating and air conditioning systems** 
+
+ Remove and throw away all ductwork and air handling equipment that was under water. Inspect the inside and outside of air handlers and ducts that were not under water for signs of mold. Fiberglass insulation on the interior surfaces of air handlers and air supply ducts can have a lot of mold growth. Visible mold growth on air handlers can be painted with an encapsulant coating to keep it from spreading.
+
+  Inspect the interior and exterior of duct work. Any flexible ductwork that has mold growth should be replaced.
 
