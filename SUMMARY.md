@@ -32,4 +32,5 @@
 * [Building non-destructive testing](building-strength-testing.md)
 * [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
 * [Major Health Risks When Working on Water-Damaged Homes?](major-health-risks-when-working-on-water-damaged-homes.md)
+* [Note for CLEANING VOLUNTEERS](note-for-cleaning-volunteers.md)
 
