@@ -6,8 +6,14 @@ description: >-
 
 # 10 Tips for when Your Car Is Submerged In Water
 
+{% hint style="danger" %}
+1. **Do not start the vehicle parked at your home that submerged in the water.** 
+2. **Take a photo of the vehicle.** 
+3. **Tow it to the nearest workshop and inform the insurance company.** 
+{% endhint %}
+
 {% hint style="success" %}
-\`\`[`More details how to claim insurance (Click here)`](https://thenewsminute.com/article/take-photo-vehicle-submerged-kerala-flood-tow-workshop-say-insurance-cos-86919)\`\`
+**\`\`**[`More details how to claim insurance (Click here)`](https://thenewsminute.com/article/take-photo-vehicle-submerged-kerala-flood-tow-workshop-say-insurance-cos-86919)\`\`
 {% endhint %}
 
 **Being submerged in water can wreak havoc on a car, especially its engine, electrical system, and interior. While India is shocked by the level of flooding that took Kerala by surprise, this is not the first time it has happened in the country. In the past, we have seen devastating floods that destroyed a lot of cars in Chennai and Mumbai. If your car has been immersed in water more than halfway up its wheels, follow these 10 steps compiled by Code6:**
