@@ -18,3 +18,5 @@
 * For upholstered furniture you should consult a professional to see what can be salvaged. In the meantime, remove cushions and dry separately. Do not remove upholstery. Raise furniture on blocks and place fans underneath.
 * Wooden furniture: Remove drawers and open doors. Do not dry quickly or splitting may occur.
 
+\*\*\*\*[**Source for English content**](https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx)\*\*\*\*
+
