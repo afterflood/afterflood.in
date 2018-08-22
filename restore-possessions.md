@@ -20,3 +20,7 @@ Unplug appliances and leave open to dry. Have them inspected by a competent appl
 
 Photos and papers may be frozen in zippered plastic freezer bags and stored until a professional restoration expert can recommend what to do with them. Valuable artwork can be HEPA vacuumed to remove surface mold, then wiped with damp paper towel and air dried. A tac-cloth may be used to speed drying.
 
+**Source:** Manoj Nair
+
+> **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
+
