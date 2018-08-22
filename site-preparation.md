@@ -25,5 +25,9 @@ Put on your personal protective equipment – PPE \(coveralls, boots, gloves, re
 
 pump soap soap water eye wash station drinking water dirty rinsewater empty bucket first aid kit emergency phone numbers wet hand wipes pump sprayer to rinse off hands into empty bucket with clean water paper towels
 
+**Source :** Manoj Nair
+
+> **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
+
 
 
