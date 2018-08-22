@@ -4,7 +4,9 @@ description: The crowd sourced data hub for all after flood precautions
 
 # \#AfterFlood
 
-![www.afterflood.in](.gitbook/assets/afterflood-logo-03.png)
+![](.gitbook/assets/afterflood-logo-0x.jpg)
+
+> A crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood
 
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
