@@ -25,6 +25,8 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="major-health-risks-when-working-on-water-damaged-homes.md" %}
 
+{% page-ref page="note-for-cleaning-volunteers.md" %}
+
 ## Waste Management
 
 {% page-ref page="food-and-paper-waste-management.md" %}
