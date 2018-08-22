@@ -35,4 +35,5 @@
 * [Note for CLEANING VOLUNTEERS](note-for-cleaning-volunteers.md)
 * [Pre work inspection](pre-work-inspection.md)
 * [BEFORE WORK BEGINS](before-work-begins.md)
+* [Restore Possessions](restore-possessions.md)
 
