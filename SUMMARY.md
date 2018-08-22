@@ -34,4 +34,5 @@
 * [Major Health Risks When Working on Water-Damaged Homes?](major-health-risks-when-working-on-water-damaged-homes.md)
 * [Note for CLEANING VOLUNTEERS](note-for-cleaning-volunteers.md)
 * [Pre work inspection](pre-work-inspection.md)
+* [BEFORE WORK BEGINS](before-work-begins.md)
 
