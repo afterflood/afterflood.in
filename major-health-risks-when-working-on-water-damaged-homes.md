@@ -36,7 +36,7 @@
 
 ### Structural Problems
 
-If the building has been pushed o its foundation, DO NOT enter it yourself. Only trained construction professionals should work in these dangerous conditions.  
+If the building has been pushed off its foundation, DO NOT enter it yourself. Only trained construction professionals should work in these dangerous conditions.  
 • If you plan to enter a house that has been under water for a long time or has remained
 
 wet, be sure that the oor has not rotted through. Test for rotten areas by hitting the oorboards with the end of a 2” x 4” piece of lumber.

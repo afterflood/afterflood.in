@@ -26,7 +26,7 @@
 
 ### Head
 
-* Wear coveralls with a hood, a soft hat with a brim or other protective head cover. 
+* Wear overalls with a hood, a soft hat with a brim or other protective head cover. 
 * Wear an American National Standards Institute \(ANSI\)-rated hardhat if there is any danger of falling debris or electrical hazards.
 
 ### Hands
