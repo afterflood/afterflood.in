@@ -11,12 +11,22 @@
 
 
 
-* Carpets must be dried within the first two days. soaked carpets must be discarded immediately.
-* Remove residual mud and soil from furniture, appliances, etc.
-* If items are just damp, let the mud dry and then brush it off.
-* To test if material is dry, tape clear food wrap to the surface of the item. If the covered section turns darker than the surrounding material, it is still damp. Dry until this no longer occurs.
-* For upholstered furniture you should consult a professional to see what can be salvaged. In the meantime, remove cushions and dry separately. Do not remove upholstery. Raise furniture on blocks and place fans underneath.
-* Wooden furniture: Remove drawers and open doors. Do not dry quickly or splitting may occur.
+1. Carpets must be dried within the first two days or else they will end up with an unpleasant smell and will have to be shampooed later.
+2. Completely soaked carpets can be discarded immediately.
+3. To brush off the dirt from the furniture, wait for them to dry. If you try to remove the dirt before it’s dry, there will be a high probability of scratches and it won’t be well cleaned.
+4. To confirm if a furniture is dry, perform the following:
+   1. Tape som clear food wrap on the surface.
+   2. If the covered section turns darker than the surrounding material, it is still damp.
+   3. Dry the item for long and repeat the above steps to see if the covered section turns dark.
+   4. If they don’t turn dark, it’s well dried.
+5. For upholstered furniture, consult a professional to confirm on what can be salvaged. In the meantime, look for removable cushions that is not glued or nailed or attached to the furniture by any means and dry them separately. Do not remove upholstery.
+6. Raise furniture on blocks and place it underneath the fan.  
+
+### **Handling wooden furniture with drawers and doors**
+
+1. Remove all items from the drawer and finally the drawer itself.
+2. Keep the doors open and let it dry eventually.
+3. Do not try to dry them quickly. In doing so, the wood may split and will bring more damage to the furniture in the longer run.
 
 \*\*\*\*[**Source for English content**](https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx)\*\*\*\*
 
