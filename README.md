@@ -33,6 +33,18 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="what-should-be-discarded-recovered.md" %}
 
+## Comprehensive Clean-Up Guide
+
+{% page-ref page="let-us-go-back-home-safely.md" %}
+
+{% page-ref page="how-to-clean-floors.md" %}
+
+{% page-ref page="how-to-clean-well.md" %}
+
+{% page-ref page="carpets-and-furniture.md" %}
+
+{% page-ref page="pre-work-inspection.md" %}
+
 ## Safety  Management
 
 {% page-ref page="before-moving-back-in.md" %}
@@ -45,13 +57,7 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="cleaning-your-house.md" %}
 
-{% page-ref page="how-to-clean-floors.md" %}
-
 {% page-ref page="easy-hack-for-cleaning.md" %}
-
-{% page-ref page="how-to-clean-well.md" %}
-
-{% page-ref page="carpets-and-furniture.md" %}
 
 {% page-ref page="how-to-fix-your-fridge.md" %}
 
