@@ -47,15 +47,17 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="before-work-begins.md" %}
 
-{% page-ref page="restore-possessions.md" %}
-
-{% page-ref page="selective-tear-out-and-preparation-before-restoration.md" %}
+{% page-ref page="site-preparation.md" %}
 
 {% page-ref page="clean-out.md" %}
 
-{% page-ref page="site-preparation.md" %}
+{% page-ref page="gut-tear-out-procedure.md" %}
 
 {% page-ref page="pre-construction-cleaning-and-treatment.md" %}
+
+{% page-ref page="selective-tear-out-and-preparation-before-restoration.md" %}
+
+{% page-ref page="restore-possessions.md" %}
 
 ## Safety  Management
 
