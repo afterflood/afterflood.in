@@ -8,6 +8,11 @@ description: The crowd sourced data hub for all after flood precautions
 
 > A crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood
 
+{% hint style="success" %}
+Download a copy of Comprehensive Clean-Up Guide PDF  
+[doc.afterflood.in](http://doc.afterflood.in/)
+{% endhint %}
+
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
 [**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
