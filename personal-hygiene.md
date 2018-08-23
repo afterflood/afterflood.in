@@ -44,7 +44,7 @@
 മുറിവുകൾ വൃത്തിയാക്കുകയും മൂടിയിരിക്കുകയും ചെയ്‌യണം. വെള്ളപ്പൊക്കം തുറന്ന മുറിവുകളെ രോഗബാധിതമാക്കിയേക്കാം. നിങ്ങളേയും നിങ്ങളുടെ കുടുംബത്തേയും പരിരക്ഷിക്കാൻ:
 
 * തുറന്ന മുറിവ് ഉണ്ടെങ്കിൽ, ജലപ്രവാഹവുമായി ബന്ധപ്പെടാതിരിക്കുക.
-* അണുബാധയുടെ സാധ്യത കുറയ്ക്കാൻ ഒരു വാട്ടർപ്രൂഫ് ബാൻഡേജ് ഉപയോഗിച്ച് , തുറന്ന മുറിവുകൾ മൂടുക.
+* അണുബാധയുടെ സാധ്യത കുറയ്ക്കാൻ ഒരു വാട്ടർപ്രൂഫ് ബാൻഡേജ് ഉപയോഗിച്ച്, തുറന്ന മുറിവുകൾ മൂടുക.
 * സോപ്പ്, ശുദ്ധജലം എന്നിവ ഉപയോഗിച്ച് തുറന്ന മുറിവുകൾ
 
   നന്നായി കഴുകുക.
@@ -122,4 +122,3 @@ Keeping wounds clean and covered is crucial during an emergency. Open wounds and
 * There is a foreign object \(soil, wood, metal, or other objects\) embedded in the wound;
 * The wound is at special risk of infection \(such as a puncture by a dirty object\)
 * An old wound shows signs of becoming infected \(increased pain and soreness, swelling, redness, draining, or you develop a fever\).
-
