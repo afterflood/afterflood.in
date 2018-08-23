@@ -128,11 +128,12 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 ## Contribute to www.afterflood.in
 {% endhint %}
 
-1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in)
-2. Add a new page and update `Readme.md & Summary.md`
-3. Send a PR with your Update
+1. Fork the GitHub repo [https://github.com/afterflood/afterflood.in](https://github.com/afterflood/afterflood.in)
+2. Create a new file with `.md` extension.
+3. Update the path to file in `README.md` \(The front page\) & `SUMMARY.md` \(for ordering in sidebar\)
+4. Use Markdown language for updating the script.
+5. Make a PR for merge.
 
 Or email us at `afterflood.in@gmail.com`
 
 {% page-ref page="contribute.md" %}
-

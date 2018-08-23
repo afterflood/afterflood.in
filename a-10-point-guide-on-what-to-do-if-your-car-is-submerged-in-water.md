@@ -7,9 +7,9 @@ description: >-
 # 10 Tips for when Your Car Is Submerged In Water
 
 {% hint style="danger" %}
-1. **Do not start the vehicle parked at your home that submerged in the water.** 
-2. **Take a photo of the vehicle.** 
-3. **Tow it to the nearest workshop and inform the insurance company.** 
+1. **Do not start the vehicle parked at your home that submerged in the water.**
+2. **Take a photo of the vehicle.**
+3. **Tow it to the nearest workshop and inform the insurance company.**
 {% endhint %}
 
 {% hint style="success" %}
@@ -18,7 +18,7 @@ description: >-
 
 **Being submerged in water can wreak havoc on a car, especially its engine, electrical system, and interior. While India is shocked by the level of flooding that took Kerala by surprise, this is not the first time it has happened in the country. In the past, we have seen devastating floods that destroyed a lot of cars in Chennai and Mumbai. If your car has been immersed in water more than halfway up its wheels, follow these 10 steps compiled by Code6:**
 
-* Do not attempt to start the car! , attempting to start it could damage it beyond repair. It is best to have the car towed to a mechanic.
+* Do not attempt to start the car! Attempting to start it could damage it beyond repair. It is best to have the car towed to a mechanic.
 * Determine how deep the car was submerged. Mud and debris usually leave a waterline on the car interior as well as out. If the water didn’t rise above the bottom of the doors, your car will probably be fine. Most insurance companies will consider the car totaled \(damaged beyond economically-reasonable repair\) if water reaches the bottom of the dashboard.
 * Call your insurance company. Flood damage is generally covered by comprehensive \(fire and theft\) insurance, so even if you don’t have collision coverage, you may be covered for repairs or replacement. Your insurance company will probably be flooded with claims, so it’s a good idea to start the process early.
 * Start drying the interior. If water got inside the car, mold will grow quickly. Start by opening the doors and windows and putting towels on the floor to soak up water, but you should plan on replacing anything that got wet, including carpets, floor mats, door panels, seat padding and upholstery. Remember, these repairs are likely to be covered by your comprehensive insurance.
@@ -30,6 +30,3 @@ description: >-
 * Beware of flood-damaged replacements. Many cars that are totalled due to flooding are simply cleaned up and re-sold. Before buying a used car, have the title checked; words like "salvage" and "flood damage" are giant red flags. Get a comprehensive history on the car, if the car has been moved from another state and re-titled \(especially a state that has been subject to flooding just before the title change\), the seller may be trying to hide flood damage.  
 
 Source : [http://www.code6.in/](http://www.code6.in/)
-
-
-
