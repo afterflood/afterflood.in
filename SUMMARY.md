@@ -33,6 +33,7 @@
 * [Building non-destructive testing](building-strength-testing.md)
 * [Essential medicines to be kept after a flood](essential-medicines-to-be-kept-after-a-flood.md)
 * [Major Health Risks When Working on Water-Damaged Homes?](major-health-risks-when-working-on-water-damaged-homes.md)
+* [Cremating dead animals](cremating-dead-animals.md)
 * [Note for CLEANING VOLUNTEERS](note-for-cleaning-volunteers.md)
 * [Pre work inspection](pre-work-inspection.md)
 * [BEFORE WORK BEGINS](before-work-begins.md)
@@ -42,5 +43,4 @@
 * [SITE PREPARATION](site-preparation.md)
 * [Pre Construction cleaning and treatment](pre-construction-cleaning-and-treatment.md)
 * [GUT TEAR-OUT PROCEDURE](gut-tear-out-procedure.md)
-* [Cremating dead animals](cremating-dead-animals.md)
 
