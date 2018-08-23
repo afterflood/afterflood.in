@@ -24,3 +24,7 @@
 
 **DO NOT ATTEMPT TO GO NEAR AND KILL A SNAKE, SNAKES ARE FAST AND CAN STRIKE BEFORE YOU STRIKE THEM, CALL EXPERTS TO HELP YOU.**
 
+**For more details check.** 
+
+\*\*\*\*[**http://snakebiteinitiative.in/kerala/**](http://snakebiteinitiative.in/kerala/)\*\*\*\*
+
