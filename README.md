@@ -82,6 +82,8 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 
 {% page-ref page="how-to-fix-your-fridge.md" %}
 
+{% page-ref page="how-to-dry-and-test-your-computer.md" %}
+
 {% page-ref page="a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md" %}
 
 {% page-ref page="how-to-respond-to-snakes-after-floods.md" %}
