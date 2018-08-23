@@ -40,6 +40,8 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 
 {% page-ref page="what-should-be-discarded-recovered.md" %}
 
+{% page-ref page="waste-management-after-natural-calamities.md" %}
+
 ## Comprehensive Clean-Up Guide
 
 {% page-ref page="let-us-go-back-home-safely.md" %}
@@ -70,10 +72,6 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 
 {% page-ref page="before-moving-back-in.md" %}
 
-{% page-ref page="what-should-be-discarded-recovered.md" %}
-
-{% page-ref page="let-us-go-back-home-safely.md" %}
-
 {% page-ref page="back-to-home-kit.md" %}
 
 {% page-ref page="cleaning-your-house.md" %}
@@ -89,6 +87,8 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 {% page-ref page="how-to-respond-to-snakes-after-floods.md" %}
 
 {% page-ref page="building-strength-testing.md" %}
+
+{% page-ref page="ensure-building-safety.md" %}
 
 ## Videos
 

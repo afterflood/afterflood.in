@@ -44,5 +44,3 @@
 * [Ensure Building Safety](ensure-building-safety.md)
 * [Contribute](contribute.md)
 
-
-
