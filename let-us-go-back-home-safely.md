@@ -13,9 +13,6 @@
 * വെള്ളപ്പൊക്കം പൂർണ്ണമായും മറികടന്നതിനുശേഷം മാത്രമേ നിങ്ങളുടെ വീട്ടിലേക്ക് തിരിച്ചുപോകാവു
 * പാമ്പുകളെയും മറ്റു ജീവികളെയും നിങ്ങളുടെ വീടിനകത്തും പുറത്തും കാണാനുള്ള സാധ്യതയുണ്ട്. ജാഗ്രത പുലർത്തുക ![&#x1F40D;](https://static.xx.fbcdn.net/images/emoji.php/v9/f1f/2/16/1f40d.png)
 * നിങ്ങളുടെ വീട്, ഫർണിച്ചർ, മറ്റ് ഉപകരണങ്ങൾ എന്നിവയുടെ എല്ലാ മുക്കിലും കോണിലും അണുനാശകാരി ഉപയോഗിച്ചു വൃത്തിയാക്കുക
-
-
-
 * Do not return home until authorities have advised that it is safe to do so 🔊
 * Ensure that the roofs and walls are not weak and doesn't have any cracks **🏠**
 * Take photos and videos of property damages before starting to clean your home and surrounding 📷
@@ -25,3 +22,4 @@
 * Go back to your home only after the flood water recedes completely 🚶‍
 * There are chances of finding snakes and other creatures inside or outside your home. Take caution 🐍
 * Clean every nook and corner of your home, furniture and other equipment using disinfectant ✨
+

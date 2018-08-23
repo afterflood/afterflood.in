@@ -7,10 +7,10 @@ description: >-
 # 10 Tips for when Your Car Is Submerged In Water
 
 {% hint style="danger" %}
+
 1. **Do not start the vehicle parked at your home that submerged in the water.**
 2. **Take a photo of the vehicle.**
 3. **Tow it to the nearest workshop and inform the insurance company.**
-{% endhint %}
 
 {% hint style="success" %}
 **\`\`**[`More details how to claim insurance (Click here)`](https://thenewsminute.com/article/take-photo-vehicle-submerged-kerala-flood-tow-workshop-say-insurance-cos-86919)\`\`
@@ -30,3 +30,4 @@ description: >-
 * Beware of flood-damaged replacements. Many cars that are totalled due to flooding are simply cleaned up and re-sold. Before buying a used car, have the title checked; words like "salvage" and "flood damage" are giant red flags. Get a comprehensive history on the car, if the car has been moved from another state and re-titled \(especially a state that has been subject to flooding just before the title change\), the seller may be trying to hide flood damage.  
 
 Source : [http://www.code6.in/](http://www.code6.in/)
+

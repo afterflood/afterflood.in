@@ -41,4 +41,5 @@
 * [SITE PREPARATION](site-preparation.md)
 * [Pre Construction cleaning and treatment](pre-construction-cleaning-and-treatment.md)
 * [GUT TEAR-OUT PROCEDURE](gut-tear-out-procedure.md)
+* [Cremating dead animals](cremating-dead-animals.md)
 

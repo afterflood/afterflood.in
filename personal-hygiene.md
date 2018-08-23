@@ -39,6 +39,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
+
 **മുറിവ് സംരക്ഷിക്കുന്ന വിധം**
 
 മുറിവുകൾ വൃത്തിയാക്കുകയും മൂടിയിരിക്കുകയും ചെയ്‌യണം. വെള്ളപ്പൊക്കം തുറന്ന മുറിവുകളെ രോഗബാധിതമാക്കിയേക്കാം. നിങ്ങളേയും നിങ്ങളുടെ കുടുംബത്തേയും പരിരക്ഷിക്കാൻ:
@@ -61,7 +62,6 @@
 * ഒരു പഴയ മുറിവ് രോഗബാധയുടെ ലക്ഷണങ്ങൾ കാണിക്കുന്നു എങ്കിൽ
 
   \(വേദനയും ക്ഷീണവും വർദ്ധിക്കുന്നത്, വീക്കം, അല്ലെങ്കിൽ നിങ്ങൾക്ക് ഒരു പനിക്കുള്ള സാധ്യത\).
-{% endhint %}
 
 {% hint style="info" %}
 
@@ -122,3 +122,4 @@ Keeping wounds clean and covered is crucial during an emergency. Open wounds and
 * There is a foreign object \(soil, wood, metal, or other objects\) embedded in the wound;
 * The wound is at special risk of infection \(such as a puncture by a dirty object\)
 * An old wound shows signs of becoming infected \(increased pain and soreness, swelling, redness, draining, or you develop a fever\).
+
