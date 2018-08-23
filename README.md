@@ -90,6 +90,8 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 
 ## Videos
 
+{% page-ref page="cremating-dead-animals.md" %}
+
 {% page-ref page="how-to-prevent-yourself-from-diseases-after-a-flood.md" %}
 
 {% page-ref page="remember-these-if-you-have-to-step-into-a-water-body.md" %}
