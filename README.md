@@ -14,8 +14,10 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 {% endhint %}
 
 {% hint style="info" %}
-Flood recovery - Directorate of Health Services \(Malayalam\)  
-[http://dhs.kerala.gov.in/index.php/publichealth.html](http://dhs.kerala.gov.in/index.php/publichealth.html)
+Flood recovery Guides - Directorate of Health Services \(Malayalam\)
+
+1. [http://dhs.kerala.gov.in/index.php/publichealth.html](http://dhs.kerala.gov.in/index.php/publichealth.html)
+2. [http://dhs.kerala.gov.in/pdf2018/adv\_17082018.pdf](http://dhs.kerala.gov.in/pdf2018/adv_17082018.pdf)
 {% endhint %}
 
 {% hint style="danger" %}
