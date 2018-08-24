@@ -9,12 +9,16 @@ description: The crowd sourced data hub for all after flood precautions
 > A crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood
 
 {% hint style="success" %}
-Download a copy of Comprehensive Clean-Up Guide PDF  
-[doc.afterflood.in](http://doc.afterflood.in/)
+**Download a copy of Comprehensive Clean-Up Guide PDF**  
+[**doc.afterflood.in**](http://doc.afterflood.in/)\*\*\*\*
+{% endhint %}
+
+{% hint style="warning" %}
+**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)\*\*\*\*
 {% endhint %}
 
 {% hint style="info" %}
-Flood recovery Guides - Directorate of Health Services \(Malayalam\)
+**Instructions from Directorate of Kerala Health**
 
 1. [http://dhs.kerala.gov.in/index.php/publichealth.html](http://dhs.kerala.gov.in/index.php/publichealth.html)
 2. [http://dhs.kerala.gov.in/pdf2018/adv\_17082018.pdf](http://dhs.kerala.gov.in/pdf2018/adv_17082018.pdf)
