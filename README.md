@@ -13,6 +13,11 @@ Download a copy of Comprehensive Clean-Up Guide PDF
 [doc.afterflood.in](http://doc.afterflood.in/)
 {% endhint %}
 
+{% hint style="info" %}
+Flood recovery - Directorate of Health Services \(Malayalam\)  
+[http://dhs.kerala.gov.in/index.php/publichealth.html](http://dhs.kerala.gov.in/index.php/publichealth.html)
+{% endhint %}
+
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
 [**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
