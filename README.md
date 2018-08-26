@@ -19,13 +19,6 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% hint style="info" %}
 
-
-**Instructions from Directorate of Kerala Health**
-
-1. [http://dhs.kerala.gov.in/index.php/publichealth.html](http://dhs.kerala.gov.in/index.php/publichealth.html)
-2. [http://dhs.kerala.gov.in/pdf2018/adv\_17082018.pdf](http://dhs.kerala.gov.in/pdf2018/adv_17082018.pdf)
-{% endhint %}
-
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
 [**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
