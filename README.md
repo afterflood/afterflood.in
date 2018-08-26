@@ -105,6 +105,10 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="ensure-building-safety.md" %}
 
+## Insurance
+
+{% page-ref page="insurance.md" %}
+
 ## Videos
 
 {% page-ref page="cremating-dead-animals.md" %}

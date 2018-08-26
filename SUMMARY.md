@@ -42,6 +42,7 @@
 * [Five points to keep in mind when circulating messages \(Video\)](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Waste Management after Natural Calamities](waste-management-after-natural-calamities.md)
 * [Ensure Building Safety](ensure-building-safety.md)
+* [Tips To Claim Insurance](insurance.md)
 * [Mental Health](mental-health.md)
 * [Contribute](contribute.md)
 
