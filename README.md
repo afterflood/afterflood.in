@@ -9,7 +9,7 @@ description: The crowd sourced data hub for all after flood precautions
 > A crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood
 
 {% hint style="success" %}
-\*\*\*\*[**https://infographics.afterflood.in**](https://infographics.afterflood.in/#/)  
+\*\*\*\*[**infographics.afterflood.in**](https://infographics.afterflood.in/#/)  
 Concise, reliable and shareable infographics for health, environmental and social awareness during the time of rehabilitation after a natural disaster.
 {% endhint %}
 
