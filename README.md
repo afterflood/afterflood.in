@@ -23,6 +23,9 @@ Concise, reliable and shareable infographics for health, environmental and socia
 {% endhint %}
 
 {% hint style="info" %}
+\*\*\*\*[**keralafloodrescue.com**](http://keralafloodrescue.com/)  
+For all resources about and help with food, clothing, shelter and rehabilitation
+{% endhint %}
 
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
@@ -54,6 +57,8 @@ Concise, reliable and shareable infographics for health, environmental and socia
 {% page-ref page="what-should-be-discarded-recovered.md" %}
 
 {% page-ref page="waste-management-after-natural-calamities.md" %}
+
+{% page-ref page="how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md" %}
 
 ## Comprehensive Clean-Up Guide
 
