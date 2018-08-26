@@ -10,7 +10,7 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% hint style="success" %}
 [https://infographics.afterflood.in](https://infographics.afterflood.in/#/)  
-Concise, reliable and shareable infographics for health, environmental and social awareness during the time of  rehabilitation.
+Concise, reliable and shareable infographics for health, environmental and social awareness during the time of rehabilitation after a natural disaster.
 {% endhint %}
 
 {% hint style="success" %}
@@ -158,4 +158,3 @@ Concise, reliable and shareable infographics for health, environmental and socia
 Or email us at `afterflood.in@gmail.com`
 
 {% page-ref page="contribute.md" %}
-
