@@ -10,14 +10,16 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% hint style="success" %}
 **Download a copy of Comprehensive Clean-Up Guide PDF**  
-[**doc.afterflood.in**](http://doc.afterflood.in/)\*\*\*\*
+[**doc.afterflood.in**](http://doc.afterflood.in/)
 {% endhint %}
 
 {% hint style="warning" %}
-**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)\*\*\*\*
+**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)
 {% endhint %}
 
 {% hint style="info" %}
+
+
 **Instructions from Directorate of Kerala Health**
 
 1. [http://dhs.kerala.gov.in/index.php/publichealth.html](http://dhs.kerala.gov.in/index.php/publichealth.html)
