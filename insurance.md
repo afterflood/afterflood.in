@@ -49,6 +49,17 @@ special 24-hour assistance.
 * Malappuram - 9446024966
 * Mahi - 9447468899
 
+### PolicyBazaar.com
+
+* 24x7 Helpline for Kerala - 8448180966
+
+Regardless of whether you have purchased an insurance from them, PolicyBazaar
+is offering a 24x7 helpline to assist with the insurance claiming process.
+
+Source: [Business Standard](https://www.business-standard.com/article/news-ani/policybazaar-sets-up-special-helpline-number-for-families-affected-by-kerala-floods-118082000475_1.html)
+
+
+
 ## Standard Claims Process
 
 The claims process looks something like this:
