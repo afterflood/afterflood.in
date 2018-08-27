@@ -86,6 +86,8 @@ For all resources about and help with food, clothing, shelter and rehabilitation
 
 {% page-ref page="restore-possessions.md" %}
 
+{% page-ref page="malayalam.md"}
+
 ## Safety  Management
 
 {% page-ref page="before-moving-back-in.md" %}
