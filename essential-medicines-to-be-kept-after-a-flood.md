@@ -16,5 +16,5 @@
 * **Bleaching powder-ബ്ളീച്ചിങ് പൊടി**
 * **Chlorine tablets-ക്ലോറിൻ പൊടി**
 
-
+[Source ](https://www.paho.org/disasters/index.php?option=com_docman&view=download&category_slug=books&alias=2030-essential-medicines-list-for-emergencies-and-dissters-in-the-caribbean&Itemid=1179&lang=en)
 

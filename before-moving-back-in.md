@@ -16,3 +16,7 @@ Once the flood waters have receded, you must not live in your house until:
 * All contaminated dishes and utensils have been thoroughly washed and disinfected - either by using boiling water or by using a sterilizing solution of one part chlorine bleach to four parts water. Rinse dishes and utensils thoroughly.
 * Adequate toilet facilities are available.
 
+
+
+**Source:** [**https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx**](https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx)\*\*\*\*
+

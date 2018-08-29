@@ -1,7 +1,5 @@
 # Personal Hygiene
 
-{% hint style="info" %}
-
 **കൈകഴുകുന്ന വിധം**
 
 കൈകൾ വൃത്തിയാക്കുന്നത് അണുബാധയിൽ നിന്ന് രക്ഷിക്കുന്നതിനുള്ള ഒരു അടിയന്തര മാർഗ്ഗമാണ്. ടാപ്പ് വെള്ളം സുരക്ഷിതമല്ലെങ്കിൽ, സോപ്പും അണുവിമുക്തമാക്കിയ വെള്ളവും ഉപയോഗിച്ച് കൈ കഴുകുക. നിങ്ങളുടെ കൈകൾ വൃത്തിയാക്കുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്താൻ ഈ കാര്യങ്ങൾ ചെയ്യുക:
@@ -38,8 +36,6 @@
 ശുദ്ധവും സുരക്ഷിതവുമായ ജലം ഉപയോഗിച്ച് മാത്രമേ പല്ല് തേക്കാവൂ. ടാപ്പ് വാട്ടർ സുരക്ഷിതമാണോ എന്നു് കണ്ടുപിടിക്കാൻ പ്രാദേശിക അധികാരികളെ സമീപിക്കുക.
 {% endhint %}
 
-{% hint style="danger" %}
-
 **മുറിവ് സംരക്ഷിക്കുന്ന വിധം**
 
 മുറിവുകൾ വൃത്തിയാക്കുകയും മൂടിയിരിക്കുകയും ചെയ്‌യണം. വെള്ളപ്പൊക്കം തുറന്ന മുറിവുകളെ രോഗബാധിതമാക്കിയേക്കാം. നിങ്ങളേയും നിങ്ങളുടെ കുടുംബത്തേയും പരിരക്ഷിക്കാൻ:
@@ -62,8 +58,6 @@
 * ഒരു പഴയ മുറിവ് രോഗബാധയുടെ ലക്ഷണങ്ങൾ കാണിക്കുന്നു എങ്കിൽ
 
   \(വേദനയും ക്ഷീണവും വർദ്ധിക്കുന്നത്, വീക്കം, അല്ലെങ്കിൽ നിങ്ങൾക്ക് ഒരു പനിക്കുള്ള സാധ്യത\).
-
-{% hint style="info" %}
 
 **Hand-washing**
 
@@ -103,8 +97,6 @@ Bathing or showering after a **flood** should only be done with clean, safe wate
 Brushing your teeth after a water-related emergency should only be done with clean, safe water. Listen to local authorities to find out if tap water is safe to use.
 {% endhint %}
 
-{% hint style="danger" %}
-
 ## Wound Care
 
 Keeping wounds clean and covered is crucial during an emergency. Open wounds and rashes exposed to flood waters can become infected. To protect yourself and your family:
@@ -122,4 +114,6 @@ Keeping wounds clean and covered is crucial during an emergency. Open wounds and
 * There is a foreign object \(soil, wood, metal, or other objects\) embedded in the wound;
 * The wound is at special risk of infection \(such as a puncture by a dirty object\)
 * An old wound shows signs of becoming infected \(increased pain and soreness, swelling, redness, draining, or you develop a fever\).
+
+Source: [https://www.cdc.gov/healthywater/emergency/extreme-weather/floods-standingwater.html](https://www.cdc.gov/healthywater/emergency/extreme-weather/floods-standingwater.html)
 

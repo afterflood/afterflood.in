@@ -43,3 +43,5 @@ All those above items mentioned that have been exposed to flood water should be 
 * Clothes can be cleaned. Scrape heavy dirt from washable clothes. Rinse and wash them several times with detergent and dry quickly.
 {% endhint %}
 
+**Source:** [**https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx**](https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx)\*\*\*\*
+
