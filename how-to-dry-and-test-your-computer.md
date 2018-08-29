@@ -38,3 +38,5 @@
 7. **Reassemble the device** : Once everything is clean and dry, you just need to put it back together and see if all of your quick thinking and hard work has paid off. Typically everything is going to go back on in the reverse order of how it came off, but be sure to check back with your instructions for any details.
 8. **Test the device** : Again be careful and check if the plug points are working properly if plugging in the computer. In the best-case scenario, the device will turn on immediately and act like nothing ever happened. Check all the equipments like the modem,mouse etc are also working properly. Check if the data in your hard disk is all there and ensure that it has not been corrupted.
 
+**Contributed by:** [**https://github.com/yedhink**](https://github.com/yedhink)\*\*\*\*
+

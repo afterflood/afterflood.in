@@ -135,5 +135,5 @@ Here's an article from News18 explaining the process to claim an insurance for m
 
   and all eligible claims are processed on a cashless basis and on a priority.
 
-* Source for the last 3 points: [The Hindu Business Line](https://www.thehindubusinessline.com/money-and-banking/kerala-floods-insurance-claims-seen-at-600-1000-crore/article24746508.ece)
+* Source for the last 3 points: [The Hindu Business Line](https://www.thehindubusinessline.com/money-and-banking/kerala-floods-insurance-claims-seen-at-600-1000-crore/article24746508.ece)  **Contributed by :** [**https://github.com/wingedrhino**](https://github.com/wingedrhino)\*\*\*\*
 
