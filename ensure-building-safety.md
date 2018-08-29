@@ -7,3 +7,5 @@
 * Look for buckled walls or floors.
 * Watch for holes in the floor, broken glass and other potentially dangerous debris.
 
+**Source :** [**https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx**](https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx)\*\*\*\*
+

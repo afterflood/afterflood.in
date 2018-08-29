@@ -8,3 +8,7 @@ Most flooded areas are cut off from bottled/ safe water supplies. Here's what yo
 
 ANY water becomes safe to drink if sterilized this way.
 
+
+
+**Source: OPOS recipe that went viral during Chennai Floods**
+

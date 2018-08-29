@@ -23,3 +23,5 @@
 * There are chances of finding snakes and other creatures inside or outside your home. Take caution 🐍
 * Clean every nook and corner of your home, furniture and other equipment using disinfectant ✨
 
+**source:** [**https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx**](https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx)\*\*\*\*
+

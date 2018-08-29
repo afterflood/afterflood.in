@@ -12,5 +12,7 @@ Following are some of the symptoms of PTSD..
 * Unusually irritable or aggressive behavior.
 * Depression/Suicidal tendencies.
 
-If you notice any of these symptoms in yourself of your loved ones, seek medical help.
+If you notice any of these symptoms in yourself of your loved ones, seek medical help.  
+  
+**Contributed by:** [**https://github.com/raeeska**](https://github.com/raeeska)\*\*\*\*
 

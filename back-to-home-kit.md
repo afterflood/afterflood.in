@@ -13,5 +13,5 @@
 10. Bathing Soap - സോപ്പ്
 {% endhint %}
 
-
+**Source: Combined by Sachu Tharian**
 
