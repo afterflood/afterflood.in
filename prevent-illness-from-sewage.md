@@ -11,3 +11,5 @@
 * Wash clothes contaminated with flood or sewage water in hot water and detergent and separately from uncontaminated clothes and linens.
 * Do not allow children to play in floodwater areas and do not allow children to play with floodwater-contaminated toys that have not been disinfected. Disinfect toys by using a solution of bleach and water. Some toys, such as stuffed animals and baby toys, cannot be disinfected; they should be discarded.
 
+Source : [https://www.cdc.gov/disasters/floods/cleanupwater.html](https://www.cdc.gov/disasters/floods/cleanupwater.html)
+
