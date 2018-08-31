@@ -82,9 +82,11 @@
 
 * നഷ്ടപ്പെട്ട് പോയതിനെക്കുറിച്ചുള്ള കണക്കുകൾ പ്രകാരമുള്ള പ്രയാണത്തിനുമുമ്പ് നിങ്ങളുടെ വീടിനുള്ളിലെ വസ്തുക്കളുടെ ഫോട്ടോകൾ ഉപയോഗിക്കാം.
 
-* ക്ലെയിമു പ്രോസസ് വേഗതയിൽ ആക്കാൻ  നിങ്ങൾക്ക് ഓൺലൈൻ റെസിപ്റ്റുകൾ നൽകാൻ കഴിയും. വെള്ളത്തിൽ കേടാകാത്ത  ഏതെങ്കിലും റിസൈറ്റ് ഉപയോഗിക്കാം.
+* ക്ലെയിമു പ്രോസസ് വേഗതയിൽ ആക്കാൻ  നിങ്ങൾക്ക് ഓൺലൈൻ റെസിപ്റ്റുകൾ നൽകാൻ കഴിയും. വെള്ളത്തിൽ കേടാകാത്ത  ഏതെങ്കിലും റിസൈറ്റ് ഉപയോഗിക്കാം. 
 
-മോട്ടോർ, പ്രോപ്പർട്ടി വിഭാഗങ്ങൾക്ക് ഇൻഷുറൻസ് ക്ലെയിം ചെയ്യുന്നതിനുള്ള നടപടികൾ വിശദീകരിയ്ക്കുന്ന ന്യൂസ്18 ന്റെ ഒരു ലേഖനം ഇതാ: [news18](https://www.news18.com/news/india/irda-orders-insurance-firms-to-simplify-claims-procedure-for-kerala-flood-victims-heres-all-you-need-to-know-1848407.html). Here is another from [ഇന്ത്യൻ എക്സ്പ്രസ് ](https://indianexpress.com/article/business/kerala-floods-what-you-should-know-about-claiming-insurance-for-damaged-vehicles-and-property/).
+* മോട്ടോർ, പ്രോപ്പർട്ടി വിഭാഗങ്ങൾക്ക് ഇൻഷുറൻസ് ക്ലെയിം ചെയ്യുന്നതിനുള്ള നടപടികൾ വിശദീകരിയ്ക്കുന്ന ന്യൂസ്18 ന്റെ ഒരു ലേഖനം ഇതാ: [news18](https://www.news18.com/news/india/irda-orders-insurance-firms-to-simplify-claims-procedure-for-kerala-flood-victims-heres-all-you-need-to-know-1848407.html). 
+
+* മറ്റൊന്ന്  [ഇന്ത്യൻ എക്സ്പ്രസ് ](https://indianexpress.com/article/business/kerala-floods-what-you-should-know-about-claiming-insurance-for-damaged-vehicles-and-property/).
 
 ### കമ്പനികളുടെ സേവനങ്ങൾ
 
@@ -97,5 +99,8 @@
 
 * കേരളത്തിൽ നിന്നുള്ള എല്ലാ ക്ലെയിമുകളും ഉടനടി ശ്രദ്ധയോടെ ഉറപ്പാക്കണമെന്ന് മാക്സ് ബുപ്പ പറയുന്നു. എല്ലാ അർഹതയുള്ള ക്ലെയിമുകൾക്കും പണലഭ്യതയും മുൻഗണനയും നൽകും.
 
-* അവസാന 3 പോയിന്റുകൾക്ക് ഉറവിടം: ഹിന്ദു ബിസിനസ് ലൈൻ  [ഹിന്ദു ബിസിനസ് ലൈൻ](https://www.thehindubusinessline.com/money-and-banking/kerala-floods-insurance-claims-seen-at-600-1000-crore/article24746508.ece)  **Contributed by :** [**https://github.com/wingedrhino**](https://github.com/wingedrhino)\*\*\*\*
+* അവസാന 3 പോയിന്റുകൾക്ക് ഉറവിടം: ഹിന്ദു ബിസിനസ് ലൈൻ  [ഹിന്ദു ബിസിനസ് ലൈൻ](https://www.thehindubusinessline.com/money-and-banking/kerala-floods-insurance-claims-seen-at-600-1000-crore/article24746508.ece)
+
+**Contributed by :** [https://github.com/wingedrhino](https://github.com/wingedrhino)
+
 
