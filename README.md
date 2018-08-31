@@ -114,6 +114,7 @@ For all resources about and help with food, clothing, shelter and rehabilitation
 ## Insurance
 
 {% page-ref page="insurance.md" %}
+{% page-ref page="insurance-mal.md" %}
 
 ## Videos
 
