@@ -115,6 +115,8 @@ For all resources about and help with food, clothing, shelter and rehabilitation
 
 {% page-ref page="insurance.md" %}
 
+{% page-ref page="insurance-mal.md" %}
+
 ## Videos
 
 {% page-ref page="cremating-dead-animals.md" %}

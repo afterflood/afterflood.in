@@ -43,6 +43,7 @@
 * [Waste Management after Natural Calamities](waste-management-after-natural-calamities.md)
 * [Ensure Building Safety](ensure-building-safety.md)
 * [Tips To Claim Insurance](insurance.md)
+* [ഇൻഷ്വറൻസ് ക്ലെയിം ചെയ്യുന്നതിനുള്ള ടിപ്പുകൾ](insurance-mal.md)
 * [Mental Health](mental-health.md)
 * [Comprehensive Clean-Up Guide Malayalam](malayalam.md)
 * [How to cremate dead animals and birds after floodwater has receded](how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md)
