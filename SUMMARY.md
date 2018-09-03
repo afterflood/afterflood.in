@@ -48,4 +48,5 @@
 * [Comprehensive Clean-Up Guide Malayalam](malayalam.md)
 * [How to cremate dead animals and birds after floodwater has receded](how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md)
 * [Contribute](contribute.md)
+* [leptospirosis](leptospirosis.md)
 
