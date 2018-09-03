@@ -35,6 +35,8 @@ For all resources about and help with food, clothing, shelter and rehabilitation
 
 ## Health Management
 
+{% page-ref page="leptospirosis.md" %}
+
 {% page-ref page="prevent-illness-from-sewage.md" %}
 
 {% page-ref page="sterilised-water.md" %}
