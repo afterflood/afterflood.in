@@ -20,12 +20,13 @@ Concise, reliable and shareable infographics for health, environmental and socia
 {% endhint %}
 
 {% hint style="warning" %}
-**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)
+**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)​
 {% endhint %}
 
 {% hint style="info" %}
-[**keralafloodrescue.com**](http://keralafloodrescue.com/)  
-For all resources about and help with food, clothing, shelter and rehabilitation
+\*\*\*\*
+
+**kannada.afterflood.in : Kannada verison of afterflood.** 
 {% endhint %}
 
 {% hint style="danger" %}
