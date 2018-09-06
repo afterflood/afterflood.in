@@ -24,9 +24,8 @@ Concise, reliable and shareable infographics for health, environmental and socia
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*
-
-**kannada.afterflood.in : Kannada verison of afterflood.** 
+\*\*\*\*[**kannada.afterflood.in**](https://kannada.afterflood.in/)  
+**Kannada Version of \#AfterFlood**
 {% endhint %}
 
 {% hint style="danger" %}
