@@ -1,4 +1,4 @@
-# Major Health Risks When Working on Water-Damaged Homes?
+# Major Health Risks When Working on Water-Damaged Homes
 
 \*\*വെള്ളം കയറിയിറങ്ങിയ വീടുകളിൽ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ
 
@@ -86,6 +86,5 @@ Broken glass, boards, exposed nails and other hazards are common in ood and stor
 Electric shocks can kill. There is a danger of electrical shock from any electrical device that has been flooded. Rubber boots and gloves do not always protect from electric shock.
 
 Turn off the electricity at the breaker before starting work if you do not know the condition of the wiring behind walls  
-  
-**Source**: Combined from multiple sources by Ninan A Mathews
 
+**Source**: Combined from multiple sources by Ninan A Mathews

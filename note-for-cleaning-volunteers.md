@@ -1,4 +1,4 @@
-# Note for CLEANING VOLUNTEERS
+# Note for Cleaning Volunteers
 
 
 
@@ -11,9 +11,9 @@
 
 ### Eyes
 
-* * Wear goggles, safety glasses with side shields or full-face shield. Sun/glare-protective lenses may be needed in some work settings.
-  * Wear a cap with a brim to prevent dust from falling behind the glasses.
-  * Always keep a bottle of eyewash solution \(available at drugstores\) on the job in case you get something in your eye.
+* Wear goggles, safety glasses with side shields or full-face shield. Sun/glare-protective lenses may be needed in some work settings.
+* Wear a cap with a brim to prevent dust from falling behind the glasses.
+* Always keep a bottle of eyewash solution \(available at drugstores\) on the job in case you get something in your eye.
 
 ### Ears
 
@@ -26,7 +26,7 @@
 
 ### Head
 
-* Wear overalls with a hood, a soft hat with a brim or other protective head cover. 
+* Wear overalls with a hood, a soft hat with a brim or other protective head cover.
 * Wear an American National Standards Institute \(ANSI\)-rated hardhat if there is any danger of falling debris or electrical hazards.
 
 ### Hands
@@ -34,5 +34,4 @@
 * Use heavy, waterproof, cut-resistant gloves.
 * Also always wash your hands and face before eating, drinking, smoking or putting on sun screen or lip protection to limit how much mold and dust gets into your body.
 
-Source: Shared by Manoj Nair 
-
+Source: Shared by Manoj Nair
