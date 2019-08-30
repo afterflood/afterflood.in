@@ -39,7 +39,7 @@ Concise, reliable and shareable infographics for health, environmental and socia
 
 ## Health Management
 
-{% page-ref page="leptospirosis.md" %}
+{% page-ref page="health-management/leptospirosis.md" %}
 
 {% page-ref page="health-management/prevent-illness-from-sewage.md" %}
 
@@ -65,7 +65,7 @@ Concise, reliable and shareable infographics for health, environmental and socia
 
 {% page-ref page="undefined/waste-management-after-natural-calamities.md" %}
 
-{% page-ref page="how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md" %}
+{% page-ref page="clean-up-guide/how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md" %}
 
 ## Comprehensive Clean-Up Guide
 
@@ -93,8 +93,6 @@ Concise, reliable and shareable infographics for health, environmental and socia
 
 {% page-ref page="clean-up-guide/restore-possessions.md" %}
 
-{% page-ref page="malayalam.md" %}
-
 ## Safety  Management
 
 {% page-ref page="safety-management/before-moving-back-in.md" %}
@@ -120,8 +118,6 @@ Concise, reliable and shareable infographics for health, environmental and socia
 ## Insurance
 
 {% page-ref page="insurance-1/insurance.md" %}
-
-{% page-ref page="insurance-1/insurance-mal.md" %}
 
 ## Videos
 

@@ -9,6 +9,7 @@
   * [Essential medicines to be kept after a flood](health-management/essential-medicines-to-be-kept-after-a-flood.md)
   * [Major Health Risks When Working on Water-Damaged Homes](health-management/major-health-risks-when-working-on-water-damaged-homes.md)
   * [Note for Cleaning Volunteers](health-management/note-for-cleaning-volunteers.md)
+  * [Leptospirosis](health-management/leptospirosis.md)
 * [Waste Management](undefined/README.md)
   * [Food and paper waste management](undefined/food-and-paper-waste-management.md)
   * [What should be Discarded/Recovered?](undefined/what-should-be-discarded-recovered.md)
@@ -26,6 +27,7 @@
   * [Pre Construction cleaning and treatment](clean-up-guide/pre-construction-cleaning-and-treatment.md)
   * [Selective tear out and preparation before restoration](clean-up-guide/selective-tear-out-and-preparation-before-restoration.md)
   * [Restore Possessions](clean-up-guide/restore-possessions.md)
+  * [How to cremate dead animals and birds after floodwater has receded](clean-up-guide/how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md)
 * [Safety  Management](safety-management/README.md)
   * [Ensure before moving back in](safety-management/before-moving-back-in.md)
   * [Back to Home Kit](safety-management/back-to-home-kit.md)
@@ -49,11 +51,7 @@
   * [Five points to keep in mind when circulating messages \(Video\)](videos/remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Insurance](insurance-1/README.md)
   * [Tips To Claim Insurance](insurance-1/insurance.md)
-  * [ഇൻഷ്വറൻസ് ക്ലെയിം ചെയ്യുന്നതിനുള്ള ടിപ്പുകൾ](insurance-1/insurance-mal.md)
-* [Comprehensive Clean-Up Guide Malayalam](malayalam.md)
-* [How to cremate dead animals and birds after floodwater has receded](how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md)
 * [Contribute](contribute.md)
-* [Leptospirosis](leptospirosis.md)
 
 ## Mental Health <a id="mental-health-1"></a>
 
