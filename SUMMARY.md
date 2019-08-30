@@ -51,9 +51,6 @@
   * [Five points to keep in mind when circulating messages \(Video\)](videos/remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Insurance](insurance-1/README.md)
   * [Tips To Claim Insurance](insurance-1/insurance.md)
+* [Mental Health](mental-health.md)
 * [Contribute](contribute.md)
-
-## Mental Health <a id="mental-health-1"></a>
-
-* [Mental Health](mental-health-1/mental-health.md)
 

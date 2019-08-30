@@ -8,6 +8,35 @@ description: The crowd sourced data hub for all after flood precautions
 
 > **A verified crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood**
 
+{% tabs %}
+{% tab title="Clean-Up Guide PDF" %}
+{% hint style="success" %}
+**Download a copy of Comprehensive Clean-Up Guide PDF**  
+[**doc.afterflood.in**](http://doc.afterflood.in/)
+{% endhint %}
+{% endtab %}
+
+{% tab title="Versions" %}
+Transilated Versions of **Afterflood**
+
+{% hint style="success" %}
+[**ml.afterflood.in**](http://ml.afterflood.in)  
+**Malayalam Version of \#AfterFlood -** പ്രളയാനന്തരം
+{% endhint %}
+
+{% hint style="success" %}
+\*\*\*\*[**kannada.afterflood.in**](https://kannada.afterflood.in/)  
+**Kannada Version of \#AfterFlood**
+{% endhint %}
+{% endtab %}
+
+{% tab title="Chat Bot" %}
+{% hint style="warning" %}
+**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)​
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
 {% hint style="success" %}
 **More on After Flood Team** [**info.afterflood.in**](http://info.afterflood.in)\*\*\*\*
 {% endhint %}
@@ -16,25 +45,6 @@ description: The crowd sourced data hub for all after flood precautions
 [**infographics.afterflood.in**](https://infographics.afterflood.in/#/)  
 Concise, reliable and shareable infographics for health, environmental and social awareness during the time of rehabilitation after a natural disaster.  
 [**English**](https://infographics.afterflood.in/#/english)**,** [**Malayalam**](https://infographics.afterflood.in/#/malayalam)**,** [**Hindi**](https://infographics.afterflood.in/#/hindi) **,** [**Tamil**](https://infographics.afterflood.in/#/tamil)**,** [**Kannada**](https://infographics.afterflood.in/#/kannada)**,** [**Bangla** ](https://infographics.afterflood.in/#/bangla)
-{% endhint %}
-
-{% hint style="success" %}
-**Download a copy of Comprehensive Clean-Up Guide PDF**  
-[**doc.afterflood.in**](http://doc.afterflood.in/)
-{% endhint %}
-
-{% hint style="warning" %}
-**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)​
-{% endhint %}
-
-{% hint style="info" %}
-\*\*\*\*[**kannada.afterflood.in**](https://kannada.afterflood.in/)  
-**Kannada Version of \#AfterFlood**
-{% endhint %}
-
-{% hint style="danger" %}
-**Please do not use Sodium polyacrylate for cleaning flood water**  
-[**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)
 {% endhint %}
 
 ## Health Management
@@ -55,7 +65,7 @@ Concise, reliable and shareable infographics for health, environmental and socia
 
 {% page-ref page="health-management/note-for-cleaning-volunteers.md" %}
 
-{% page-ref page="mental-health-1/mental-health.md" %}
+{% page-ref page="mental-health.md" %}
 
 ## Waste Management
 
