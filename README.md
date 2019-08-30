@@ -38,116 +38,24 @@ Transilated Versions of **Afterflood**
 {% endtabs %}
 
 {% hint style="success" %}
-**More on After Flood Team** [**info.afterflood.in**](http://info.afterflood.in)\*\*\*\*
-{% endhint %}
-
-{% hint style="success" %}
 [**infographics.afterflood.in**](https://infographics.afterflood.in/#/)  
 Concise, reliable and shareable infographics for health, environmental and social awareness during the time of rehabilitation after a natural disaster.  
 [**English**](https://infographics.afterflood.in/#/english)**,** [**Malayalam**](https://infographics.afterflood.in/#/malayalam)**,** [**Hindi**](https://infographics.afterflood.in/#/hindi) **,** [**Tamil**](https://infographics.afterflood.in/#/tamil)**,** [**Kannada**](https://infographics.afterflood.in/#/kannada)**,** [**Bangla** ](https://infographics.afterflood.in/#/bangla)
 {% endhint %}
 
-## Health Management
+{% page-ref page="health-management/" %}
 
-{% page-ref page="health-management/leptospirosis.md" %}
+{% page-ref page="undefined/" %}
 
-{% page-ref page="health-management/prevent-illness-from-sewage.md" %}
+{% page-ref page="clean-up-guide/" %}
 
-{% page-ref page="health-management/sterilised-water.md" %}
+{% page-ref page="safety-management/" %}
 
-{% page-ref page="health-management/foods-and-medicines-to-be-discarded.md" %}
+{% page-ref page="videos/" %}
 
-{% page-ref page="health-management/personal-hygiene.md" %}
+{% page-ref page="insurance-1/" %}
 
-{% page-ref page="health-management/essential-medicines-to-be-kept-after-a-flood.md" %}
-
-{% page-ref page="health-management/major-health-risks-when-working-on-water-damaged-homes.md" %}
-
-{% page-ref page="health-management/note-for-cleaning-volunteers.md" %}
-
-{% page-ref page="mental-health.md" %}
-
-## Waste Management
-
-{% page-ref page="undefined/food-and-paper-waste-management.md" %}
-
-{% page-ref page="undefined/what-should-be-discarded-recovered.md" %}
-
-{% page-ref page="undefined/waste-management-after-natural-calamities.md" %}
-
-{% page-ref page="clean-up-guide/how-to-cremate-dead-animals-and-birds-after-floodwater-has-receded.md" %}
-
-## Comprehensive Clean-Up Guide
-
-{% page-ref page="clean-up-guide/let-us-go-back-home-safely.md" %}
-
-{% page-ref page="clean-up-guide/how-to-clean-floors.md" %}
-
-{% page-ref page="clean-up-guide/how-to-clean-well.md" %}
-
-{% page-ref page="clean-up-guide/carpets-and-furniture.md" %}
-
-{% page-ref page="clean-up-guide/pre-work-inspection.md" %}
-
-{% page-ref page="clean-up-guide/before-work-begins.md" %}
-
-{% page-ref page="clean-up-guide/site-preparation.md" %}
-
-{% page-ref page="clean-up-guide/clean-out.md" %}
-
-{% page-ref page="clean-up-guide/gut-tear-out-procedure.md" %}
-
-{% page-ref page="clean-up-guide/pre-construction-cleaning-and-treatment.md" %}
-
-{% page-ref page="clean-up-guide/selective-tear-out-and-preparation-before-restoration.md" %}
-
-{% page-ref page="clean-up-guide/restore-possessions.md" %}
-
-## Safety  Management
-
-{% page-ref page="safety-management/before-moving-back-in.md" %}
-
-{% page-ref page="safety-management/back-to-home-kit.md" %}
-
-{% page-ref page="safety-management/cleaning-your-house.md" %}
-
-{% page-ref page="safety-management/easy-hack-for-cleaning.md" %}
-
-{% page-ref page="safety-management/how-to-fix-your-fridge.md" %}
-
-{% page-ref page="safety-management/how-to-dry-and-test-your-computer.md" %}
-
-{% page-ref page="safety-management/a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md" %}
-
-{% page-ref page="safety-management/how-to-respond-to-snakes-after-floods.md" %}
-
-{% page-ref page="safety-management/building-strength-testing.md" %}
-
-{% page-ref page="safety-management/ensure-building-safety.md" %}
-
-## Insurance
-
-{% page-ref page="insurance-1/insurance.md" %}
-
-## Videos
-
-{% page-ref page="videos/cremating-dead-animals.md" %}
-
-{% page-ref page="videos/how-to-prevent-yourself-from-diseases-after-a-flood.md" %}
-
-{% page-ref page="videos/remember-these-if-you-have-to-step-into-a-water-body.md" %}
-
-{% page-ref page="videos/remember-these-when-you-head-back-home-after-the-flood..md" %}
-
-{% page-ref page="videos/how-to-clean-your-home-after-a-flood.md" %}
-
-{% page-ref page="videos/how-to-ensure-the-safety-your-home-after-a-flood.md" %}
-
-{% page-ref page="videos/how-to-cleanse-your-well-water-after-a-flood-spell.md" %}
-
-{% page-ref page="videos/how-to-disinfect-your-drinking-water-after-a-flood.md" %}
-
-{% page-ref page="videos/remember-these-five-points-while-circulating-messages-in-social-media.md" %}
+{% page-ref page="health-management/mental-health.md" %}
 
 ## General Note
 
@@ -178,6 +86,10 @@ Concise, reliable and shareable infographics for health, environmental and socia
 5. Make a PR for merge.
 
 Or email us at `afterflood.in@gmail.com`
+
+{% hint style="success" %}
+**More on After Flood Team** [**info.afterflood.in**](http://info.afterflood.in)\*\*\*\*
+{% endhint %}
 
 {% page-ref page="contribute.md" %}
 

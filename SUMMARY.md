@@ -9,6 +9,7 @@
   * [Essential medicines to be kept after a flood](health-management/essential-medicines-to-be-kept-after-a-flood.md)
   * [Major Health Risks When Working on Water-Damaged Homes](health-management/major-health-risks-when-working-on-water-damaged-homes.md)
   * [Note for Cleaning Volunteers](health-management/note-for-cleaning-volunteers.md)
+  * [Mental Health](health-management/mental-health.md)
   * [Leptospirosis](health-management/leptospirosis.md)
 * [Waste Management](undefined/README.md)
   * [Food and paper waste management](undefined/food-and-paper-waste-management.md)
@@ -51,6 +52,5 @@
   * [Five points to keep in mind when circulating messages \(Video\)](videos/remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Insurance](insurance-1/README.md)
   * [Tips To Claim Insurance](insurance-1/insurance.md)
-* [Mental Health](mental-health.md)
 * [Contribute](contribute.md)
 
