@@ -1,4 +1,4 @@
-# SITE PREPARATION
+# Site Preparation
 
 ## Set up a safety and cleanup area
 

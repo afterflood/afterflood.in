@@ -1,4 +1,4 @@
-# CLEAN-OUT
+# Clean-out
 
 **CLEAN-OUT**
 

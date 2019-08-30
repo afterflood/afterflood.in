@@ -14,6 +14,5 @@
   * All bottled drinks and products in jars, including home preserves \(since the area under the seal of jars and bottles cannot be properly disinfected\).
   * Cans with large dents or that reveal seepage.
 
-
-
 Source: [https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx](https://www.getprepared.gc.ca/cnt/hzd/flds-ftr-en.aspx)
+

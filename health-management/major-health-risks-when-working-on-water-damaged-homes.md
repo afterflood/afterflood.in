@@ -85,6 +85,7 @@ Broken glass, boards, exposed nails and other hazards are common in ood and stor
 
 Electric shocks can kill. There is a danger of electrical shock from any electrical device that has been flooded. Rubber boots and gloves do not always protect from electric shock.
 
-Turn off the electricity at the breaker before starting work if you do not know the condition of the wiring behind walls  
+Turn off the electricity at the breaker before starting work if you do not know the condition of the wiring behind walls
 
 **Source**: Combined from multiple sources by Ninan A Mathews
+

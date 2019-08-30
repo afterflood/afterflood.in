@@ -1,4 +1,4 @@
-# GUT TEAR-OUT PROCEDURE
+# Gut tear-out procedure
 
 **GUT TEAR-OUT PROCEDURE**
 

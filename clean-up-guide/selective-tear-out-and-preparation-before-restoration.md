@@ -1,4 +1,4 @@
-# SELECTIVE TEAR OUT AND PREPARATION  BEFORE RESTORATION
+# Selective tear out and preparation before restoration
 
 **Clean up as you go** 
 

@@ -1,4 +1,4 @@
-# BEFORE WORK BEGINS
+# Before Work Begins
 
 ### **Purchase and order tools and supplies** 
 
