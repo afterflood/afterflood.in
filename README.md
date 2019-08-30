@@ -45,7 +45,7 @@ Concise, reliable and shareable infographics for health, environmental and socia
 
 {% page-ref page="health-management/" %}
 
-{% page-ref page="undefined/" %}
+{% page-ref page="waste-management/" %}
 
 {% page-ref page="clean-up-guide/" %}
 
