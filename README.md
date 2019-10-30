@@ -6,12 +6,12 @@ description: The crowd sourced data hub for all after flood precautions
 
 ![](.gitbook/assets/afterflood-logo-0x.jpg)
 
-> **A verified crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood**
+> **A verified crowd sourced data hub for information regarding all the Do's and Don'ts, waste management, personal hygiene and every other aspect which need to be kept in mind while moving back home after a flood.**
 
 {% tabs %}
 {% tab title="Clean-Up Guide PDF" %}
 {% hint style="success" %}
-**Download a copy of Comprehensive Clean-Up Guide PDF**  
+**Download a copy of the Comprehensive Clean-Up Guide**  
 [**doc.afterflood.in**](http://doc.afterflood.in/)
 {% endhint %}
 {% endtab %}
@@ -68,7 +68,7 @@ Concise, reliable and shareable infographics for health, environmental and socia
 * Watch for holes in the floor, broken glass and other potentially dangerous debris.
 
 {% hint style="danger" %}
-## **Travel with care.**
+## **Travel with care**
 {% endhint %}
 
 * Follow recommended routes. DO NOT sightsee.
@@ -92,4 +92,3 @@ Or email us at `afterflood.in@gmail.com`
 {% endhint %}
 
 {% page-ref page="contribute.md" %}
-

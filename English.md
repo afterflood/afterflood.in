@@ -1,7 +1,7 @@
     www.afterflood.in
-    A crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood
+    A crowd sourced data hub for information regarding all the Do's and Don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after a flood.
 
-    
+
 # Let us Return Home Safely!
 
 
@@ -14,8 +14,8 @@
 * Ensure that the **Main Switch** of your home is **turned off.** Those who have solar and inverter installed, take precaution ⚡
 * Wear gloves and footwear \(Preferably Boots\) at all times while cleaning  ✨
 * Go back to your home only after the flood water recedes completely 🚶‍
-* There are chances of finding snakes and other creatures inside or outside your home. Take caution 🐍 
-* Clean every nook and corner of your home, furniture and other equipment using disinfectant ✨ 
+* There are chances of finding snakes and other creatures inside or outside your home. Take caution 🐍
+* Clean every nook and corner of your home, furniture and other equipment using disinfectant ✨
 
 
 # How to clean Floors
@@ -37,7 +37,7 @@
 4. After 20-30 mins have passed use a scented cleaning solution to get rid of the chlorine smell
 
 
-<div class="page"/> 
+<div class="page"/>
 
 # How to clean wells
 
@@ -58,23 +58,23 @@
 4. Follow the steps to make a bleaching solution and get the well cleaned:
 
     a. Based on the amount of water present in the well, take the required amount of bleaching powder into a plastic bucket.
-    
+
     b. Add a little water and mix it till a thick paste is formed.
-    
+
     c. Fill the 3/4th of the bucket with water and mix till combined.
-    
+
     d. Leave it aside for 10 minutes.
-    
+
     e. After 10 minutes, the residue will settle at the bottom of the bucket and the water will be thoroughly super chlorinated.
-    
+
     f. Pour the Chlorinated water into the bucket used to pull water and slowly immerse the bucket till the bottom of the well
-    
+
     g. Pull and leave the rope in a pulley-lever motion to thoroughly get the chlorine water mixed with the well water.
-    
+
     h. After allowing the water to settle for an hour, you can start to use the water.
 
 
-<div class="page"/> 
+<div class="page"/>
 
 # Carpets and furniture
 
@@ -113,7 +113,7 @@ If NO have your electrician or KSEB inspect your service before using it. Make s
 
 If YES, but is not rated safe, DO NOT use the system. Plan on renting or buying a generator for clean-up work. Do not use open flames for lighting or heat.
 
-<div class="page"/> 
+<div class="page"/>
 
 **Has the natural gas system been inspected?**
 
@@ -168,7 +168,7 @@ IF YES, cover the roof or other damages area with a tarpaulin until it can be fi
 
 Assume that building interiors are seriously contaminated with mold if:
 
-    * If the building was wet or under water for more than 48 hours. 
+    * If the building was wet or under water for more than 48 hours.
     * You see more mold growth than what was present before the flood.
     * You see signs of water damage or mold or smell strong mold or mildew odo
 
@@ -182,7 +182,7 @@ Assume that building interiors are seriously contaminated with mold if:
     * Papers and books
     * Food Items, including canned or tinned food that were in contact with flood waters.
 
-**Items that can be typically saved include:** 
+**Items that can be typically saved include:**
 
     * Non-porous items like china, glass, jewelry, porcelain and metal
     * All wood furniture with mold-growth but otherwise in good condition
@@ -190,7 +190,7 @@ Assume that building interiors are seriously contaminated with mold if:
     * Photographs, books and  valuable and important legal documents with minor levels of mold growth
     * Artwork, textiles, clothing that are not physically damaged.
 
-<div class="page"/> 
+<div class="page"/>
 
 
 If you plan to save your belongings think about how much storage space you will need. If they cannot be stored at home, make plans for moving and storage at another location. Clean all personal belongings from mold-contaminated areas before moving them to storage areas.  
@@ -212,7 +212,7 @@ When deciding whether to save items, remember that it will take a lot of cleanin
 
 ### Purchase and order tools and supplies
 
-Make a list of all supplies that are needed, including personal protective equipment and order them ahead of time. 
+Make a list of all supplies that are needed, including personal protective equipment and order them ahead of time.
 
 ### Plan for trash removal
 
@@ -222,7 +222,7 @@ Know how your community is handling the pick-up of flood-damaged debris or slush
 
 If belongings will be saved, determine how much storage you need for those items. If they cannot be stored at the home, make plans for moving and storage at another location. Personal belongings that come from mold-contaminated areas must be cleaned
 
-<div class="page"/> 
+<div class="page"/>
 
 
 ### Set up electricity
@@ -233,11 +233,11 @@ Set up portable generators outside the home if the electrical system was flood- 
 
 You must keep your tools safe. If you are working out of a car, store your tools in the trunk and keep it locked. You can also bolt a strong box to the floor of the workspace. Screw carriage bolts through 2” x 4” boards running across the underside of the floor- boards. Tighten the bolt inside the box. You may also want to think about setting up a community tool storage area.
 
-### Turn off gas 
+### Turn off gas
 
 Turn off gas \(cylinder/pipe\) until the system is inspected.
 
-### Bathroom access 
+### Bathroom access
 
 You must have a working bathroom. If the bathroom in your house cannot be used and there is no public bathroom nearby rent a portable toilet or the volunteers would arrange for one. This can be shared by several neighbors. Set up a safety and cleanup area next to the toilet.
 
@@ -248,34 +248,34 @@ You must have a working bathroom. If the bathroom in your house cannot be used a
     Set up a safety and cleanup area outside the home that includes:
 
     * First aid kit
-    * Fire extinguisher 
+    * Fire extinguisher
     * Cleanup buckets
-    * Eye wash station 
+    * Eye wash station
     * List of emergency phone numbers
     * Drinking water
 
 Use the cleanup area as a place to wash up before taking a break. In hot weather, take breaks every hour to avoid dehydration and heat exhaustion. Have bottled water on-site and drink it regularly. Use the area to treat minor accidents, such as cuts and punctures.
 
 
-<div class="page"/> 
+<div class="page"/>
 
 
 ## Put on your personal protection equipment \(PPE\)
 
-Put on your personal protective equipment – PPE \(coveralls, boots, gloves, respirators, eye protection and head protection\). Have partners, if possible, help you in and out of your coveralls and help you adjust your respirators. Check to make sure the respirator is working. Cover the with your hands and at- tempt to inhale; the respirator is working if no air enters. Keep all of your PPE on when in the home. 
+Put on your personal protective equipment – PPE \(coveralls, boots, gloves, respirators, eye protection and head protection\). Have partners, if possible, help you in and out of your coveralls and help you adjust your respirators. Check to make sure the respirator is working. Cover the with your hands and at- tempt to inhale; the respirator is working if no air enters. Keep all of your PPE on when in the home.
 
-## CLEANUP STATION 
+## CLEANUP STATION
 
-    * pump 
-    * soap water 
-    * eye wash station 
-    * drinking water 
-    * dirty rinsewater 
-    * empty bucket 
-    * first aid kit 
-    * emergency phone numbers 
-    * wet hand wipes 
-    * pump sprayer to rinse off hands into empty bucket with clean water 
+    * pump
+    * soap water
+    * eye wash station
+    * drinking water
+    * dirty rinsewater
+    * empty bucket
+    * first aid kit
+    * emergency phone numbers
+    * wet hand wipes
+    * pump sprayer to rinse off hands into empty bucket with clean water
     * paper towels
 
 pump soap soap water eye wash station drinking water dirty rinsewater empty bucket first aid kit emergency phone numbers wet hand wipes pump sprayer to rinse off hands into empty bucket with clean water paper towels
@@ -286,46 +286,46 @@ If you are saving items, move them to the restoration area as you work.
 
 **Air out**
 
- If building has not been open most of the windows and doors and leave for at least half an hour before beginning work. Remove any drapes or curtains to allow air and light to get into the home. 
+ If building has not been open most of the windows and doors and leave for at least half an hour before beginning work. Remove any drapes or curtains to allow air and light to get into the home.
 
 **Remove small furniture and objects on floor**
 
- Place small items in heavy-duty trash bags to reduce the release and spread of mold spores. 
+ Place small items in heavy-duty trash bags to reduce the release and spread of mold spores.
 
 **Remove large furniture**
 
- Move large furniture to the curb, vernadah or courtyard if it is dry. Use dollies or wheel barrows, if available, to lessen muscle strain. When lifting, remember to lift with your legs and not your back to avoid back injuries. 
+ Move large furniture to the curb, vernadah or courtyard if it is dry. Use dollies or wheel barrows, if available, to lessen muscle strain. When lifting, remember to lift with your legs and not your back to avoid back injuries.
 
 **Remove appliances**
 
  Tape or tie refrigerators shut before removal to avoid spilling old food containing mold and bacteria. Make sure refrigerator doors stay tied or wired shut to keep children from playing in them.
 
-<div class="page"/> 
+<div class="page"/>
 
-**Cut and remove wall-to-wall carpet** 
+**Cut and remove wall-to-wall carpet**
 
-Remove wall-to-wall carpeting that is wet if you have one. Dry carpeting can remain on the floor as a “tarp” when you remove building materials from the walls and ceilings. The carpeting will protect the flooring under the carpet. Cut carpet in pieces before removing using a carpet cutting knife. 
+Remove wall-to-wall carpeting that is wet if you have one. Dry carpeting can remain on the floor as a “tarp” when you remove building materials from the walls and ceilings. The carpeting will protect the flooring under the carpet. Cut carpet in pieces before removing using a carpet cutting knife.
 
-**Clean out closets, shelves, storage areas and kitchen cabinets** 
+**Clean out closets, shelves, storage areas and kitchen cabinets**
 
-Pots, dinnerware, buckets and other containers that are filed with flood waters need to be removed carefully. They may contain dangerous bacteria. 
+Pots, dinnerware, buckets and other containers that are filed with flood waters need to be removed carefully. They may contain dangerous bacteria.
 
 Place small items in heavy-duty trash bags to reduce the release and spread of mold spores.
-  
+
 
 # GUT TEAR-OUT PROCEDURE
 
 Many damaged homes contain valuable historic materials \(such as doors, trim, stairs, etc.\). These materials are usually of higher quality than what you can buy as a replacement. Try to save historic materials that are in good condition and can have the mold removed. However, remember that it may be cheaper to dispose of building parts that have been damaged by the flood or mold growth.
 
-**Remove and dispose of cabinets, shelves, doors and trim** 
+**Remove and dispose of cabinets, shelves, doors and trim**
 
-Remove and dispose of interior doors. Pull cabinets 
+Remove and dispose of interior doors. Pull cabinets
 
-Bend over all protruding nails when you remove trim so as not to puncture yourself. Dispose of long boards by laying them on a piece of rope then tying them into a bundle. 
+Bend over all protruding nails when you remove trim so as not to puncture yourself. Dispose of long boards by laying them on a piece of rope then tying them into a bundle.
 
-**Tear down drywall or plaster ceiling** 
+**Tear down drywall or plaster ceiling**
 
-If you cannot see mold growth on either side of the ceiling then the ceiling may be saved. If you plan to tear down the ceiling, work from a ladder almost as tall as ceiling. This stops the ceiling from coming down on top of you. Keep your head above the ceiling surface and push down with a crowbar. 
+If you cannot see mold growth on either side of the ceiling then the ceiling may be saved. If you plan to tear down the ceiling, work from a ladder almost as tall as ceiling. This stops the ceiling from coming down on top of you. Keep your head above the ceiling surface and push down with a crowbar.
 
 **Remove drywall from walls**
 
@@ -333,15 +333,15 @@ Score drywall with a utility knife along the four-foot mark where the top and bo
 
 Remove drywall in the largest pieces possible to create less dust. Two people can work together to pull sheets from the wall. Once you have opened up an inside wall, push out the drywall into the next room. Remove nails and screws from studs.
 
- **Remove plaster from walls** 
+ **Remove plaster from walls**
 
-If electricity and reciprocating saw are available, cut through plaster and lath between studs. Using pry bar, pull plaster and lath away from studs. Two people working on either end of cut laths makes this much easier. Before cutting, make sure electricity in the wall is not on. 
+If electricity and reciprocating saw are available, cut through plaster and lath between studs. Using pry bar, pull plaster and lath away from studs. Two people working on either end of cut laths makes this much easier. Before cutting, make sure electricity in the wall is not on.
 
-Use the pry bar to punch through walls and pull lath and plaster down when electricity and saws are not available. 
+Use the pry bar to punch through walls and pull lath and plaster down when electricity and saws are not available.
 
-<div class="page"/> 
+<div class="page"/>
 
-Most of the removed lath should fall on top of the removed plaster. Bundle the lath separately and remove it. Then shovel plaster into large cans for disposal in a dumpster or heavy duty bags for curbside pick up. 
+Most of the removed lath should fall on top of the removed plaster. Bundle the lath separately and remove it. Then shovel plaster into large cans for disposal in a dumpster or heavy duty bags for curbside pick up.
 
 **TEARING DOWN A PLASTER OR DRYWALL CEILING**
 
@@ -351,7 +351,7 @@ Work from a ladder that allows you to have your head above the ceilings and at t
 
 Place insulation in heavy duty trash bags and dispose of it. Remove layers from floor
 
-Remove tile, vinyl, linoleum and any remaining carpet. 
+Remove tile, vinyl, linoleum and any remaining carpet.
 
 If there is a sub-floor above the structural floor, remove it.
 
@@ -363,57 +363,57 @@ Assume that rigid floor tiles measuring 8” X 8” or 9” X 9” from 1970 or 
 
 # Pre Construction cleaning and treatment
 
-**Prepare surfaces** 
+**Prepare surfaces**
 
-Remove any remaining nails or screws from studs or ceiling joists. Brush ceiling, studs and exterior walls with a bristle broom or hand brush to remove all invisible insulation and pieces of drywall and loosen mold spores. Work from top to bottom. 
+Remove any remaining nails or screws from studs or ceiling joists. Brush ceiling, studs and exterior walls with a bristle broom or hand brush to remove all invisible insulation and pieces of drywall and loosen mold spores. Work from top to bottom.
 
 After wood framing is thoroughly brushed or scraped, carefully vacuum all surfaces. Use a corner tool to access tight spaces.
 
-**Vacuum all surfaces** 
+**Vacuum all surfaces**
 
-Clean everything with a high-quality vaccum cleaner and wait for one hour to let dust and spores previously in the air to settle, then reclean any remaining visible areas of mold growth following this method. In homes where studs are already fairly dry, we recommend only the dry clean- ing/HEPA vacuum step for wood studs. Wet cleaning should be skipped. 
-
-
-<div class="page"/> 
+Clean everything with a high-quality vaccum cleaner and wait for one hour to let dust and spores previously in the air to settle, then reclean any remaining visible areas of mold growth following this method. In homes where studs are already fairly dry, we recommend only the dry clean- ing/HEPA vacuum step for wood studs. Wet cleaning should be skipped.
 
 
-**Wet clean wooden surfaces** \(optional\) 
+<div class="page"/>
 
-Damp wipe with a nonphosphate detergent \(e.g., Savogran® TSP- PF\) and wash all remaining wood surfaces such as studs, backs of exterior walls and floors where visible mold growth cannot be removed through dry cleaning. Follow the instructions on the package for preparation. Starting at the ceiling, wipe with sponge mops and hand sponges until all visible dirt and stains are removed. 
+
+**Wet clean wooden surfaces** \(optional\)
+
+Damp wipe with a nonphosphate detergent \(e.g., Savogran® TSP- PF\) and wash all remaining wood surfaces such as studs, backs of exterior walls and floors where visible mold growth cannot be removed through dry cleaning. Follow the instructions on the package for preparation. Starting at the ceiling, wipe with sponge mops and hand sponges until all visible dirt and stains are removed.
 
 During damp wiping, use the least amount of water wood does become very wet, let it dry completely before taking the next steps. Wet surfaces that do not get fully dry may have new mold growth.
 
-**CLEANING TERMS:** 
+**CLEANING TERMS:**
 
-**Wet Cleaning:** 
+**Wet Cleaning:**
 
-Bleach may damage wood and some metallic surfaces and is less effective on porous surfaces like unpainted wood. On these materials, cleaning with a nonphosphate deter- gent \(e.g., Savogran® TSP-PF\) is recommended. Do not use detergents with trisodium phosphate \(TSP\). Follow manufacturer’s directions for mixing the solution. Always allow surface to completely dry after washing. Brushes and sponges used for cleaning should be discarded at the end of the job. 
+Bleach may damage wood and some metallic surfaces and is less effective on porous surfaces like unpainted wood. On these materials, cleaning with a nonphosphate deter- gent \(e.g., Savogran® TSP-PF\) is recommended. Do not use detergents with trisodium phosphate \(TSP\). Follow manufacturer’s directions for mixing the solution. Always allow surface to completely dry after washing. Brushes and sponges used for cleaning should be discarded at the end of the job.
 
 **Disinfection:**
 
- Hard, nonporous surfaces that have been in flood waters may be contaminated with bacteria. Any materials that will be kept should be disinfected. Use a solution of one cup liquid chlorine bleach to one gallon water, plus non- phosphate detergent for cleaning and disinfect- ing. Never mix bleach and ammonia. Throw away any unused bleach solution at the end of the day because it loses effectiveness with time. Never spray bleach and be sure to wear rubber gloves and eye protection. 
+ Hard, nonporous surfaces that have been in flood waters may be contaminated with bacteria. Any materials that will be kept should be disinfected. Use a solution of one cup liquid chlorine bleach to one gallon water, plus non- phosphate detergent for cleaning and disinfect- ing. Never mix bleach and ammonia. Throw away any unused bleach solution at the end of the day because it loses effectiveness with time. Never spray bleach and be sure to wear rubber gloves and eye protection.
 
 **Liquid chlorine bleach** is recommended for disinfection on: refrigerators, work surfaces, garbage disposals, freezers, sinks, appliances, plastic laminate, stoves, stovetops, countertops, \(ceramic\) tile floors or countertops, vinyl, lino- leum, solid surface countertops, glass, garbage cans, trash cans, trash compactors, latex enamel painted woodwork and faucets. Brushes and sponges used for cleaning should be discarded at the end of the job.
 
-**THREE BUCKET CLEANING SYSTEM** 
+**THREE BUCKET CLEANING SYSTEM**
 
-1. Pump sprayer contains detergent \(do not use sprayer for bleach\) 
+1. Pump sprayer contains detergent \(do not use sprayer for bleach\)
 
-2. Rinse bucket ~ should be changed frequently 
+2. Rinse bucket ~ should be changed frequently
 
-3. Squeeze wringer bucket for dirty water 
+3. Squeeze wringer bucket for dirty water
 
 4. 32 oz mop head ~ clean or replace frequently
 
 **Disinfect all hard surfaces**
 
- surfaces that will remain in the home. Damp wipe all vinyl/tile floors, with liquid chlorine bleach and water bleach to one gallon of water. Never mix bleach and ammonia. row away any unused bleach solution at the end of the day because it loses effectiveness overnight. 
+ surfaces that will remain in the home. Damp wipe all vinyl/tile floors, with liquid chlorine bleach and water bleach to one gallon of water. Never mix bleach and ammonia. row away any unused bleach solution at the end of the day because it loses effectiveness overnight.
 
- <div class="page"/> 
+ <div class="page"/>
 
-**Treat surfaces with borate solution** 
+**Treat surfaces with borate solution**
 
-Measure wood surfaces for moisture content with a moisture meter. Once the moisture content is less than 15 percent, it is ready for the application of a borate solution.Wash or mist the open wall cavities with a borate solution \(e.g., anti-termites\) prepared to the manufacturer’s directions for wood fungi. Although these products are more expensive than household bleach, borate solutions do not corrode or whiten, so are safer to use around metals and valuable wood products. Borates also soak into wood more effectively. For best coverage, apply borate solutions with a pump up tank sprayer. A paint brush, paint roller, or trigger spray bottle may also be used. is treatment has the added advantage of discouraging termite infestations. 
+Measure wood surfaces for moisture content with a moisture meter. Once the moisture content is less than 15 percent, it is ready for the application of a borate solution.Wash or mist the open wall cavities with a borate solution \(e.g., anti-termites\) prepared to the manufacturer’s directions for wood fungi. Although these products are more expensive than household bleach, borate solutions do not corrode or whiten, so are safer to use around metals and valuable wood products. Borates also soak into wood more effectively. For best coverage, apply borate solutions with a pump up tank sprayer. A paint brush, paint roller, or trigger spray bottle may also be used. is treatment has the added advantage of discouraging termite infestations.
 
 **Dry out the building**
 
@@ -421,16 +421,16 @@ Measure wood surfaces for moisture content with a moisture meter. Once the moist
 
 If electricity is available, use fans, dehumidifiers or window air conditioners to help speed drying. Have the contractor who will restore the home check the moisture content of wood framing to be sure it is dry before beginning to close in walls or finish flooring. Wood studs or framing with less than 15 percent moisture content are considered dry. Using the applicator tube to soak the end grain of a stud The borate treatment will last many years if applied correctly. It will protect the house from mold, termites and wood rot. Many of the most important spots to treat are the hardest to reach. This is particularly true of the end- grain of structural members that butt against another structural member \(for example studs against top and bottom plates\). Most anti-termites supplies an injector set for a pump sprayer including a 3/32” tube for spraying into crevices, and a second tube that can be used to spray into voids accessed by drilling a 1/8” hole.
 
-**Treat remaining wood studs with fungicidal coating** \(optional\) 
+**Treat remaining wood studs with fungicidal coating** \(optional\)
 
 Before beginning reconstruction, paint dried wooden studs and beams with a low toxicity fungicidal pro- Sealer as final treatment to prevent mold growth.
 
 
 # SELECTIVE TEAR OUT AND PREPARATION  BEFORE RESTORATION
 
-**Clean up as you go** 
+**Clean up as you go**
 
-Every piece of moldy material you clean out can re- contaminate the work you have done. As you work, remove large objects from the building and place smaller objects in heavy-duty trash bags. 
+Every piece of moldy material you clean out can re- contaminate the work you have done. As you work, remove large objects from the building and place smaller objects in heavy-duty trash bags.
 
 **Open attic**
 
@@ -440,27 +440,27 @@ Ventilate the attic if you plan to save a plaster or dry- ceiling in a closet.
 
 Crawl spaces must be open to air in order to dry out the house. At a minimum, create openings at available, set up a fan to blow air out of the opening running in the crawl space until it is dry. Because this space may be contaminated, wear maximum protec- tion whenever you have to enter it.
 
-<div class="page"/> 
+<div class="page"/>
 
 **Drywall**
 
-Drywall that has been underwater must be removed. If or mold damage is high, remove all of the drywall to the ceiling. 
+Drywall that has been underwater must be removed. If or mold damage is high, remove all of the drywall to the ceiling.
 
-If there has been limited drywall may be removed to the 4 foot line. Drywall is sold in 4 foot sections. NO MOLD must be visible above the 4 foot line on both the inside and outside of the wall for this option to be safe. 
+If there has been limited drywall may be removed to the 4 foot line. Drywall is sold in 4 foot sections. NO MOLD must be visible above the 4 foot line on both the inside and outside of the wall for this option to be safe.
 
-**Plaster walls** 
+**Plaster walls**
 
-If plaster is sound on the walls facing the outside and there is no insulation in the wall, try to save the plaster walls. To dry out wall cavities, remove the baseboard, then remove plaster to just below the top of the baseboard. 
+If plaster is sound on the walls facing the outside and there is no insulation in the wall, try to save the plaster walls. To dry out wall cavities, remove the baseboard, then remove plaster to just below the top of the baseboard.
 
-**Insulation** 
+**Insulation**
 
-Dispose of insulation in heavy-duty trash bags. 
+Dispose of insulation in heavy-duty trash bags.
 
 **Kitchen cabinets and countertops**
 
-Kitchen cabinets made of pressboard or other com- posite boards that have gotten wet cannot be saved. Cabinets, especially top cabinets, made of plywood or wooden boards may be saved. You can save the counter top and kitchen sink with work and plumbing when you replace the base cabinets. 
+Kitchen cabinets made of pressboard or other com- posite boards that have gotten wet cannot be saved. Cabinets, especially top cabinets, made of plywood or wooden boards may be saved. You can save the counter top and kitchen sink with work and plumbing when you replace the base cabinets.
 
-**Kitchen and bathroom Fixtures** 
+**Kitchen and bathroom Fixtures**
 
 Use a disinfectant to kill any remaining mold and other contaminants on hard surfaces that will remain in the home. Damp wipe all surfaces including tubs, bath and kitchen counter tops and vinyl/tile floors with a disinfecting solution \(see Section 6\).
 
@@ -468,27 +468,27 @@ Use a disinfectant to kill any remaining mold and other contaminants on hard sur
 
 Modern Malayalees in the hill regions take pride in their wood floors and panelling. These floors can be saved if the underside has been able to dry out. Remove all overlayment material as quickly as possible to allow the top surface to dry. Scrub and vacuum floor joists. If there is severe buckling of the flooring, make a kerf cut along the length of a floorboard to create an ex- pansion space. HEPA vacuum, then scrub floors with a wet cleaning solution to prepare for fixtures and grove wood floors.
 
-**Ceramic Flooring** 
+**Ceramic Flooring**
 
-Ceramic flooring laid directly onto cement/concrete slabs may require only HEPA vacuuming, and then washing with a disinfecting solution. Remove and dispose of ceramic flooring placed on plywood or presswood subflooring that is damaged. 
+Ceramic flooring laid directly onto cement/concrete slabs may require only HEPA vacuuming, and then washing with a disinfecting solution. Remove and dispose of ceramic flooring placed on plywood or presswood subflooring that is damaged.
 
-**Wood windows, doors and trim** 
+**Wood windows, doors and trim**
 
-Wet scrape all wood to be saved or scrub it with a wet abrasive sponge to remove loose paint. Assume all paint on pre-1978 house trim has lead in it. Scrub the surface with a wet cleaning solution. 
+Wet scrape all wood to be saved or scrub it with a wet abrasive sponge to remove loose paint. Assume all paint on pre-1978 house trim has lead in it. Scrub the surface with a wet cleaning solution.
 
-<div class="page"/> 
+<div class="page"/>
 
-**REPAIRING BUCKLED TONGUE AND GROVE FLOOR** 
+**REPAIRING BUCKLED TONGUE AND GROVE FLOOR**
 
 For minor buckling cut a saw kerf through the center of one board. This will create an 8th inch space that will allow the board to be screwed flat. If there is major buckling remove one floor- board in the center of the warped area. Forcethe boards on both sides tight to each other. Face- screw the boards down. Scribe the board you removed and cut off the excess on the tongue side. Face screw this board down. You’ll probably need to drill pilot holes for the finish head screws or the heads will strip.
 
 Vacuum the surface, let it dry completely, then paint with fungicidal primer. Treat doors and windows in this way:
 
-Remove doors if they are swollen and heavily damaged. Doors in older building made from old growth lumber usually can be saved and are valu- able. Have these professionally restored. 
+Remove doors if they are swollen and heavily damaged. Doors in older building made from old growth lumber usually can be saved and are valu- able. Have these professionally restored.
 
 Secure the top window sash to the window frame. Screw a metal bracket or block of wood under the top sash to hold in place. Paint the sash as part of exterior surface. Bottom sashes may need to be removed and restored before hanging against new window stop molding.
 
-**Heating and air conditioning systems** 
+**Heating and air conditioning systems**
 
 Remove and throw away all ductwork and air handling equipment that was under water. Inspect the inside and outside of air handlers and ducts that were not under water for signs of mold. Fiberglass insulation on the interior surfaces of air handlers and air supply ducts can have a lot of mold growth. Visible mold growth on air handlers can be painted with an encapsulant coating to keep it from spreading.
 
@@ -499,24 +499,24 @@ Inspect the interior and exterior of duct work. Any flexible ductwork that has m
 
 **Wood furnishings**
 
- Sponge off with clean water using a soft sponge or cotton rag. Blot off all excess water with clean cloths or paper towels. Clean with a wet cleaning solution. Allow to slowly air dry. If upholstered furniture and bed frames are valuable, remove and discard all the cloth and padding, pull out all tacks and staples and then treat wood as above. 
+ Sponge off with clean water using a soft sponge or cotton rag. Blot off all excess water with clean cloths or paper towels. Clean with a wet cleaning solution. Allow to slowly air dry. If upholstered furniture and bed frames are valuable, remove and discard all the cloth and padding, pull out all tacks and staples and then treat wood as above.
 
 **Clothing, drapery and other cloth**
 
- Clothes should generally be thrown away after flooding. If clothing and other cloth materials will be saved, remember they may contain mold or other contaminants from the flood waters. Wash clothing in a washing machine, not by hand. Add two table- spoons of liquid chlorine bleach per washer load. Dry cleaning may also be used, especially for special fab-rics such as wool and silk. 
+ Clothes should generally be thrown away after flooding. If clothing and other cloth materials will be saved, remember they may contain mold or other contaminants from the flood waters. Wash clothing in a washing machine, not by hand. Add two table- spoons of liquid chlorine bleach per washer load. Dry cleaning may also be used, especially for special fab-rics such as wool and silk.
 
-**China, glass, jewelry, porcelain and metal possessions** 
+**China, glass, jewelry, porcelain and metal possessions**
 
 Damp wipe these items with wet cleaning solution or wash them in a dishwasher to remove dust and superficial mold. Wash or wipe items in disinfecting solution and rinse after five minutes. Wipe dry, and be sure that they have dried completely before mov- ing them to storage. Pots, dinnerware, buckets and anything else that was withfloodwaters need to be removed carefully. They may contain dangerous bacteria.
 
 
-<div class="page"/> 
+<div class="page"/>
 
-**Electric appliances** 
+**Electric appliances**
 
-Unplug appliances and leave open to dry. Have them inspected by a competent appliance repairperson be- fore reusing. 
+Unplug appliances and leave open to dry. Have them inspected by a competent appliance repairperson be- fore reusing.
 
-**Small valuables** 
+**Small valuables**
 
 Photos and papers may be frozen in zippered plastic freezer bags and stored until a professional restoration expert can recommend what to do with them. Valuable artwork can be HEPA vacuumed to remove surface mold, then wiped with damp paper towel and air dried. A tac-cloth may be used to speed drying.
 
@@ -544,7 +544,7 @@ Always keep a bottle of eyewash solution \(available at drugstores\) on the job 
 
 Use earplugs/earmu s in high noise work areas where chainsaws or heavy equipment are used. At most clean-up sites, the earplugs are not needed.
 
-<div class="page"/> 
+<div class="page"/>
 
 ## Feet
 
@@ -554,7 +554,7 @@ DO NOT wear tennis shoes or sneakers because they will not prevent punctures, bi
 
 ## Head
 
-Wear overalls with a hood, a soft hat with a brim or other protective head cover. 
+Wear overalls with a hood, a soft hat with a brim or other protective head cover.
 
 Wear an American National Standards Institute \(ANSI\)-rated hardhat if there is any danger of falling debris or electrical hazards.
 
@@ -563,7 +563,3 @@ Wear an American National Standards Institute \(ANSI\)-rated hardhat if there is
 Use heavy, waterproof, cut-resistant gloves.
 
 Also always wash your hands and face before eating, drinking, smoking or putting on sun screen or lip protection to limit how much mold and dust gets into your body.
-
-
-
-

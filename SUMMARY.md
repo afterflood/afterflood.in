@@ -53,6 +53,3 @@
 * [Insurance](insurance-1/README.md)
   * [Tips To Claim Insurance](insurance-1/insurance.md)
 * [Contribute](contribute.md)
-* [Before Flood](before-flood/README.md)
-  * [What to do before a flood?](before-flood/what-to-do-before-a-flood.md)
-
